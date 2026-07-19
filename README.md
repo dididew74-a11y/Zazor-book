@@ -32,24 +32,24 @@
 
 ## Структура репозитория
 
-📁 **book/** — *Ядро: полная рукопись книги*
-  📄 `00-prologue-i.md`
-  📄 `01-prologue-ii.md`
+ **[book/](book/)** — *Ядро: полная рукопись книги*
+  📄 [`00-prologue-i.md`](book/00-prologue-i.md)
+  📄 [`01-prologue-ii.md`](book/01-prologue-ii.md)
   📄 `...` (остальные главы)
 
-📁 **core/** — *Карты и каноны (фундамент модели)*
-  📄 `GLOSSARY.md` — Канонический глоссарий (Версия 5.0)
-  📄 `ONTOLOGICAL_COMPASS.md` — Карта модели в 12 разделах
-  📄 `ETHICS.md` — Этика зазора
-  📄 `OTPS.md` — Общая теория порождения смысла
+📁 **[core/](core/)** — *Карты и каноны (фундамент модели)*
+  📄 [`GLOSSARY.md`](core/GLOSSARY.md) — Канонический глоссарий (Версия 5.0)
+   [`ONTOLOGICAL_COMPASS.md`](core/ONTOLOGICAL_COMPASS.md) — Карта модели в 12 разделах
+  📄 [`ETHICS.md`](core/ETHICS.md) — Этика зазора
+  📄 [`OTPS.md`](core/OTPS.md) — Общая теория порождения смысла
 
-📁 **rhizome/** — *Прикладные ответвления (практика)*
-  📂 `pedagogy/` — Педагогическая ризома
-  📂 `psychology/` — Психологическая ризома
-  📂 `philosophy/` — Философская ризома
-  📂 `social/` — Социальная ризома
+📁 **[rhizome/](rhizome/)** — *Прикладные ответвления (практика)*
+  📂 [`pedagogy/`](rhizome/pedagogy/) — Педагогическая ризома
+  📂 [`psychology/`](rhizome/psychology/) — Психологическая ризома
+  📂 [`philosophy/`](rhizome/philosophy/) — Философская ризома
+  📂 [`social/`](rhizome/social/) — Социальная ризома
 
-📁 **assets/** — *Схемы, изображения, визуальные карты*
+📁 **[assets/](assets/)** — *Схемы, изображения, визуальные карты*
 
 ---
 
