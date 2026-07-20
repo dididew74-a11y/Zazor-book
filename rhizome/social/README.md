@@ -217,9 +217,9 @@
 | Глоссарий | [`core/GLOSSARY.md`](../../core/GLOSSARY.md) |
 | Этика зазора | [`core/ETHICS.md`](../../core/ETHICS.md) |
 | Общая теория порождения смысла | [`core/OTPS.md`](../../core/OTPS.md) |
-| Педагогическая ризома | [`rhizome/pedagogy/`](../pedagogy/) |
-| Психологическая ризома | [`rhizome/psychology/`](../psychology/) |
-| Философская ризома | [`rhizome/philosophy/`](../philosophy/) |
+| Педагогическое измерение | [`rhizome/pedagogy/`](../pedagogy/) |
+| Психологическое измерение | [`rhizome/psychology/`](../psychology/) |
+| Философское измерение | [`rhizome/philosophy/`](../philosophy/) |
 | Сообщество | Обсуждение социальных кейсов, супервизия в условиях кризиса |
 
 ---
