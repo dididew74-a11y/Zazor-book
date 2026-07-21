@@ -2,7 +2,6 @@ site_name: "Зазор: Диалогическая онтология созна
 site_description: "Теория и практика проводника"
 site_author: "Александр Медведчиков"
 repo_url: "https://github.com/dididew74-a11y/Zazor-book"
-docs_dir: "."
 theme:
   name: material
   language: ru
