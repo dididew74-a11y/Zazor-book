@@ -166,6 +166,20 @@ graph LR
 > **Цикл повторяется:**  
 > Метаквалиа → акт кенозиса (вхождение и удержание неопределённости) → новое преквалиа → новый Знак → новое диалогическое квалиа → новое метаквалиа
 
+```mermaid
+graph TB
+    MQ[Метаквалиа<br/><i>устойчивое присутствие</i>] --> K[Акт кенозиса<br/><i>истончение обусловленности</i>]
+    K --> P[Преквалиа<br/><i>высокая энтропия</i>]
+    P --> Z[Знак<br/><i>событие различения</i>]
+    Z --> DQ[Диалогическое квалиа<br/><i>рождение смысла</i>]
+    DQ --> MQ
+    
+    style MQ fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
+    style K fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style P fill:#fce4ec,stroke:#c2185b,stroke-width:2px
+    style Z fill:#fce4ec,stroke:#c2185b,stroke-width:2px
+    style DQ fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+```
 ---
 
 ## 4. Масштабы и примеры
