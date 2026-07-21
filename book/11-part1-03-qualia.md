@@ -55,7 +55,7 @@ graph LR
     MQ[<b>Метаквалиа</b><br/><i>устойчивое присутствие</i><br/><i>резонансный след</i><br/><i>способность к зазору</i>]
     
     P -->|Знак рассекает| DQ
-    DQ -->|конденсация| MQ
+    DQ -->|накопление| MQ
     
     style P fill:#fce4ec,stroke:#c2185b,stroke-width:2px
     style DQ fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px
