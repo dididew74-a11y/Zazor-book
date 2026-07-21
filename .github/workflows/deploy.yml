@@ -5,13 +5,16 @@ on:
     branches:
       - main
 
+# 🛠 ДОБАВЛЕНО: Явные права для робота на запись в репозиторий
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
-      # 🛠 НОВЫЙ ШАГ: Создаём папку docs и копируем туда всё нужное
       - name: Подготовка папки docs для сборки
         run: |
           mkdir docs
