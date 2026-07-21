@@ -4,6 +4,7 @@
 * [Пролог I](book/00-prologue-i.md)
 * [Пролог II](book/01-prologue-ii.md)
 * [От автора](book/02-from-author.md)
+* [Зазор и Изнанка](book/03-zazor-and-iznanka.md)
 * [О проекте](book/04-about.md)
 * [Как читать эту книгу](book/05-how-to-read.md)
 * [Архитектура](book/06-architecture.md)
