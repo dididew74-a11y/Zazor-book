@@ -3,7 +3,7 @@
 * [Введение](README.md)
 
 * **Ядро проекта**
-  * [Глоссарий (Канон 5.0)](core/GLOSSARY.md)
+  * [Глоссарий (Канон)](core/GLOSSARY.md)
   * [Онтологический компас](core/ONTOLOGICAL_COMPASS.md)
   * [Общая теория порождения смысла (ОТПС)](core/OTPS.md)
   * [Этика зазора](core/ETHICS.md)
