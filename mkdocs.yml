@@ -1,0 +1,93 @@
+site_name: "Зазор: Диалогическая онтология сознания"
+site_description: "Теория и практика проводника"
+site_author: "Александр Медведчиков"
+repo_url: "https://github.com/dididew74-a11y/Zazor-book"
+docs_dir: "."
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+nav:
+  - Главная: README.md
+  - Титульный лист: book/0-title.md
+  - Пролог I: book/00-prologue-i.md
+  - Пролог II: book/01-prologue-ii.md
+  - От автора: book/02-from-author.md
+  - Зазор и Изнанка: book/03-zazor-and-iznanka.md
+  - О проекте: book/04-about.md
+  - Как читать: book/05-how-to-read.md
+  - Архитектура: book/06-architecture.md
+  - Глоссарий: book/07-glossary.md
+  
+  - Часть I. Онтология зазора:
+    - book/08-part1-intro.md
+    - Кризис трудной проблемы: book/09-part1-01-crisis.md
+    - Примат встречи: book/10-part1-02-primat.md
+    - Три уровня квалиа: book/11-part1-03-qualia.md
+    - Маска и кенозис: book/12-part1-04-mask.md
+    - Модусы присутствия: book/13-part1-05-moduses.md
+    - Интерлюдия I: book/14-part1-interlude-1.md
+    
+  - Часть II. Психология резонанса:
+    - book/15-part2-intro.md
+    - Аффект, эмоция, чувство: book/16-part2-01-affect.md
+    - Кризис идентичности: book/17-part2-02-identity.md
+    - Я-позиции и Другой: book/18-part2-03-y-positions.md
+    - Энтропия маски: book/19-part2-04-schema.md
+    - Интерлюдия II: book/20-part2-interlude-2.md
+    
+  - Часть III. Феноменология проводника:
+    - book/21-part3-intro.md
+    - От архитектора к аскету: book/22-part3-01-architect-to-ascetic.md
+    - Топология кенозиса: book/23-part3-02-topology.md
+    - Феноменология резонанса: book/24-part3-03-resonance.md
+    - Пределы и гвозди: book/25-part3-04-limits.md
+    - Феноменология предела: book/26-part3-05-phenomenology-limit.md
+    - Интерлюдия III: book/27-part3-interlude-3.md
+    
+  - Часть IV. Независимые свидетельства:
+    - book/28-part4-intro.md
+    - Буддийская оптика: book/29-part4-01-buddhism.md
+    - Даосская оптика: book/30-part4-02-daoism.md
+    - Конфуцианство: book/31-part4-03-confucianism.md
+    - Мономиф: book/32-part4-04-monomyth.md
+    - Роза Мира: book/33-part4-05-roza-mira.md
+    - ООО: book/34-part4-06-ooo.md
+    - Квантовый панпсихизм: book/35-part4-07-qip.md
+    - Когнитом Анохина: book/36-part4-08-cognitome.md
+    - Квантовая физика: book/37-part4-09-quantum.md
+    - Эпилог: book/38-part4-10-epilogue.md
+    - Послесловие: book/39-afterword.md
+    
+  - Ядро проекта:
+    - Глоссарий: core/GLOSSARY.md
+    - Онтологический компас: core/ONTOLOGICAL_COMPASS.md
+    - ОТПС: core/OTPS.md
+    - Этика: core/ETHICS.md
+
+markdown_extensions:
+  - mermaid2
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mermaid2
