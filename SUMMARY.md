@@ -1,19 +1,24 @@
 # Summary
 
-* [Введение](README.md)
-
-* **Ядро проекта**
-  * [Глоссарий (Канон)](core/GLOSSARY.md)
-  * [Онтологический компас](core/ONTOLOGICAL_COMPASS.md)
-  * [Общая теория порождения смысла (ОТПС)](core/OTPS.md)
-  * [Этика зазора](core/ETHICS.md)
+* [Пролог I](book/00-prologue-i.md)
+* [Пролог II](book/01-prologue-ii.md)
+* [От автора](book/02-from-author.md)
+* [О проекте](book/04-about.md)
+* [Как читать эту книгу](book/05-how-to-read.md)
+* [Архитектура](book/06-architecture.md)
+* [Глоссарий](book/07-glossary.md)
 
 * **Часть I. Онтология зазора**
-  * [Кризис трудной проблемы](book/10-part1-02-crisis.md)
+  * [Введение в Часть I](book/08-part1-intro.md)
+  * [Кризис трудной проблемы](book/09-part1-01-crisis.md)
+  * [Примат встречи](book/10-part1-02-primat.md)
   * [Три уровня квалиа](book/11-part1-03-qualia.md)
   * [Маска и кенозис](book/12-part1-04-mask.md)
+  * [Модусы присутствия](book/13-part1-05-moduses.md)
+  * [Интерлюдия I](book/14-part1-interlude-1.md)
 
 * **Часть II. Психология резонанса**
+  * [Введение в Часть II](book/15-part2-intro.md)
   * [Аффект, эмоция, чувство](book/16-part2-01-affect.md)
   * [Кризис идентичности и «культура молчания»](book/17-part2-02-identity.md)
   * [Я-позиции и Другой](book/18-part2-03-y-positions.md)
@@ -41,9 +46,16 @@
   * [Карта и путь: когнитом Анохина через оптику зазора](book/36-part4-08-cognitome.md)
   * [Квантовая физика: суперпозиция, коллапс и изнанка реальности](book/37-part4-09-quantum.md)
   * [Эпилог: Мы](book/38-part4-10-epilogue.md)
+  * [Послесловие: Перекличка с Двенадцатью традициями](book/39-afterword.md)
 
-* **Ризомы (Дополнительные материалы)**
-  * [Педагогическая ризома](rhizome/pedagogy/README.md)
-  * [Психологическая ризома](rhizome/psychology/README.md)
-  * [Философская ризома](rhizome/philosophy/README.md)
-  * [Социальная ризома](rhizome/social/README.md)
+* **Ядро проекта (Карты и каноны)**
+  * [Глоссарий (Канон 5.0)](core/GLOSSARY.md)
+  * [Онтологический компас](core/ONTOLOGICAL_COMPASS.md)
+  * [Общая теория порождения смысла (ОТПС)](core/OTPS.md)
+  * [Этика зазора](core/ETHICS.md)
+
+* **Ризомы (Прикладные ответвления)**
+  * [Педагогическая ризома](rhizome/pedagogy/)
+  * [Психологическая ризома](rhizome/psychology/)
+  * [Философская ризома](rhizome/philosophy/)
+  * [Социальная ризома](rhizome/social/)
