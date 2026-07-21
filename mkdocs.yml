@@ -81,13 +81,16 @@ nav:
     - Этика: core/ETHICS.md
 
 markdown_extensions:
-  - mermaid2
   - admonition
   - codehilite
   - footnotes
   - toc:
       permalink: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
   - search
-  - mermaid2
