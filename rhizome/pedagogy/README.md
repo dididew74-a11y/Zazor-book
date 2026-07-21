@@ -225,7 +225,6 @@
 | Глоссарий | [`core/GLOSSARY.md`](../../core/GLOSSARY.md) |
 | Этика зазора | [`core/ETHICS.md`](../../core/ETHICS.md) |
 | Общая теория порождения смысла | [`core/OTPS.md`](../../core/OTPS.md) |
-| Педагогическое измерение | [`rhizome/pedagogy/`](../pedagogy/) |
 | Психологическое измерение | [`rhizome/psychology/`](../psychology/) |
 | Философское измерение | [`rhizome/philosophy/`](../philosophy/) |
 | Социальное измерение | [`rhizome/social/`](../social/) |
