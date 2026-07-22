@@ -22,7 +22,7 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Главная: README.md
+  - Главная: index.md
   - Титульный лист: book/0-title.md
   - Пролог I: book/00-prologue-i.md
   - Пролог II: book/01-prologue-ii.md
