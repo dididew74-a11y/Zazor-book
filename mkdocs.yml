@@ -92,6 +92,7 @@ nav:
     - Психологическая ризома: rhizome/psychology/README.md
     - Философская ризома: rhizome/philosophy/README.md
     - Социальная ризома: rhizome/social/README.md
+    - Технологическая ризома: rhizome/technology/README.md
 
 markdown_extensions:
   - admonition
