@@ -85,6 +85,7 @@ nav:
     - Психологическая: rhizome/psychology/README.md
     - Философская: rhizome/philosophy/README.md
     - Социальная: rhizome/social/README.md
+    - Технологическая: rhizome/technology/README.md   # ← добавь эту строку
 
 markdown_extensions:
   - admonition
