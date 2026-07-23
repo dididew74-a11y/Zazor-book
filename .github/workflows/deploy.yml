@@ -1,11 +1,10 @@
-name: Publish MkDocs
+name: Deploy MkDocs
 
 on:
   push:
     branches:
       - main
 
-# 🛠 ДОБАВЛЕНО: Явные права для робота на запись в репозиторий
 permissions:
   contents: write
 
@@ -14,22 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Подготовка папки docs для сборки
+
+      - name: Prepare docs folder
         run: |
-          mkdir docs
+          mkdir -p docs
           cp README.md docs/index.md
+          cp README.md docs/README.md   # <-- добавили
           cp -r book docs/
           cp -r core docs/
           cp -r rhizome docs/
           cp -r assets docs/
-          
+
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-          
-      - name: Установка зависимостей
+
+      - name: Install dependencies
         run: pip install mkdocs-material pymdown-extensions
-        
-      - name: Сборка и публикация
+
+      - name: Build and deploy
         run: mkdocs gh-deploy --force
