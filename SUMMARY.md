@@ -61,3 +61,4 @@
   * [Психологическая ризома](rhizome/psychology/)
   * [Философская ризома](rhizome/philosophy/)
   * [Социальная ризома](rhizome/social/)
+  * [Технологическая ризома](rhizome/technology/)
