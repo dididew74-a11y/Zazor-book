@@ -1,7 +1,9 @@
 site_name: "Зазор: Диалогическая онтология сознания"
 site_description: "Теория и практика проводника"
 site_author: "Александр Медведчиков"
+site_url: "https://dididew74-a11y.github.io/Zazor-book/"
 repo_url: "https://github.com/dididew74-a11y/Zazor-book"
+
 theme:
   name: material
   language: ru
@@ -23,6 +25,7 @@ theme:
 
 nav:
   - Главная: index.md
+  - О проекте: README.md   # <- дублируем главную страницу как README для навигации
   - Титульный лист: book/0-title.md
   - Пролог I: book/00-prologue-i.md
   - Пролог II: book/01-prologue-ii.md
@@ -74,7 +77,7 @@ nav:
     - Послесловие: book/39-afterword.md
     
   - Ядро проекта:
-    - Глоссарий: core/GLOSSARY.md
+    - Глоссарий (канон): core/GLOSSARY.md
     - Онтологический компас: core/ONTOLOGICAL_COMPASS.md
     - ОТПС: core/OTPS.md
     - Этика: core/ETHICS.md
@@ -85,7 +88,7 @@ nav:
     - Психологическая: rhizome/psychology/README.md
     - Философская: rhizome/philosophy/README.md
     - Социальная: rhizome/social/README.md
-    - Технологическая: rhizome/technology/README.md   
+    - Технологическая: rhizome/technology/README.md
 
 markdown_extensions:
   - admonition
