@@ -25,74 +25,74 @@ theme:
 
 nav:
   # ——— КНИГА (book/) ———
-  - Титульный лист и лицензия: book/0-title.md
-  - Пролог I: book/00-prologue-i.md
-  - Пролог II: book/01-prologue-ii.md
-  - От автора: book/02-from-author.md
-  - Зазор и Изнанка: book/03-zazor-and-iznanka.md
-  - О проекте: book/04-about.md
-  - Как читать эту книгу: book/05-how-to-read.md
-  - Архитектура: book/06-architecture.md
-  - Глоссарий: book/07-glossary.md
+  - "Титульный лист и лицензия": book/0-title.md
+  - "Пролог I": book/00-prologue-i.md
+  - "Пролог II": book/01-prologue-ii.md
+  - "От автора": book/02-from-author.md
+  - "Зазор и Изнанка": book/03-zazor-and-iznanka.md
+  - "О проекте": book/04-about.md
+  - "Как читать эту книгу": book/05-how-to-read.md
+  - "Архитектура": book/06-architecture.md
+  - "Глоссарий": book/07-glossary.md
 
   # Часть I
-  - Часть I. Онтология зазора:
-    - Введение в Часть I: book/08-part1-intro.md
-    - Кризис трудной проблемы: book/09-part1-01-crisis.md
-    - Примат встречи: book/10-part1-02-primat.md
-    - Три уровня квалиа: book/11-part1-03-qualia.md
-    - Маска и кенозис: book/12-part1-04-mask.md
-    - Модусы присутствия: book/13-part1-05-moduses.md
-    - Интерлюдия I: book/14-part1-interlude-1.md
+  - "Часть I. Онтология зазора":
+    - "Введение в Часть I": book/08-part1-intro.md
+    - "Кризис трудной проблемы": book/09-part1-01-crisis.md
+    - "Примат встречи": book/10-part1-02-primat.md
+    - "Три уровня квалиа": book/11-part1-03-qualia.md
+    - "Маска и кенозис": book/12-part1-04-mask.md
+    - "Модусы присутствия": book/13-part1-05-moduses.md
+    - "Интерлюдия I": book/14-part1-interlude-1.md
 
   # Часть II
-  - Часть II. Психология резонанса:
-    - Введение в Часть II: book/15-part2-intro.md
-    - Аффект, эмоция, чувство: book/16-part2-01-affect.md
-    - Кризис идентичности и «культура молчания»: book/17-part2-02-identity.md
-    - Я-позиции и Другой: book/18-part2-03-y-positions.md
-    - Энтропия маски: схема-терапия Янга через оптику зазора: book/19-part2-04-schema.md
-    - Интерлюдия II. Резонансный след и расширение зазора: book/20-part2-interlude-2.md
+  - "Часть II. Психология резонанса":
+    - "Введение в Часть II": book/15-part2-intro.md
+    - "Аффект, эмоция, чувство": book/16-part2-01-affect.md
+    - "Кризис идентичности и «культура молчания»": book/17-part2-02-identity.md
+    - "Я-позиции и Другой": book/18-part2-03-y-positions.md
+    - "Энтропия маски: схема-терапия Янга через оптику зазора": book/19-part2-04-schema.md
+    - "Интерлюдия II. Резонансный след и расширение зазора": book/20-part2-interlude-2.md
 
   # Часть III
-  - Часть III. Феноменология проводника:
-    - Введение в Часть III: book/21-part3-intro.md
-    - От архитектора к аскету: book/22-part3-01-architect-to-ascetic.md
-    - Топология кенозиса: book/23-part3-02-topology.md
-    - Феноменология резонанса: одиннадцать свидетельств: book/24-part3-03-resonance.md
-    - Пределы и гвозди: book/25-part3-04-limits.md
-    - Феноменология предела: book/26-part3-05-phenomenology-limit.md
-    - Интерлюдия III. Глитч как неприсвоенное преквалиа: book/27-part3-interlude-3.md
+  - "Часть III. Феноменология проводника":
+    - "Введение в Часть III": book/21-part3-intro.md
+    - "От архитектора к аскету": book/22-part3-01-architect-to-ascetic.md
+    - "Топология кенозиса": book/23-part3-02-topology.md
+    - "Феноменология резонанса: одиннадцать свидетельств": book/24-part3-03-resonance.md
+    - "Пределы и гвозди": book/25-part3-04-limits.md
+    - "Феноменология предела": book/26-part3-05-phenomenology-limit.md
+    - "Интерлюдия III. Глитч как неприсвоенное преквалиа": book/27-part3-interlude-3.md
 
   # Часть IV
-  - Часть IV. Независимые свидетельства:
-    - Введение в Часть IV: book/28-part4-intro.md
-    - Буддийская оптика: book/29-part4-01-buddhism.md
-    - Даосская оптика: Пу, у-вэй и резонанс изнанки: book/30-part4-02-daoism.md
-    - Конфуцианство: ритуал как осознанная маска: book/31-part4-03-confucianism.md
-    - Мономиф: путь героя через оптику зазора: book/32-part4-04-monomyth.md
-    - «Роза Мира»: гаввах как анти-резонанс: book/33-part4-05-roza-mira.md
-    - Полемический узел: ООО как критическое зеркало: book/34-part4-06-ooo.md
-    - Квантовый панпсихизм: диалог с QIP: book/35-part4-07-qip.md
-    - Карта и путь: когнитом Анохина через оптику зазора: book/36-part4-08-cognitome.md
-    - Квантовая физика: суперпозиция, коллапс и изнанка реальности: book/37-part4-09-quantum.md
-    - Эпилог: Мы: book/38-part4-10-epilogue.md
-    - Послесловие: Перекличка с Двенадцатью традициями: book/39-afterword.md
+  - "Часть IV. Независимые свидетельства":
+    - "Введение в Часть IV": book/28-part4-intro.md
+    - "Буддийская оптика": book/29-part4-01-buddhism.md
+    - "Даосская оптика: Пу, у-вэй и резонанс изнанки": book/30-part4-02-daoism.md
+    - "Конфуцианство: ритуал как осознанная маска": book/31-part4-03-confucianism.md
+    - "Мономиф: путь героя через оптику зазора": book/32-part4-04-monomyth.md
+    - "«Роза Мира»: гаввах как анти-резонанс": book/33-part4-05-roza-mira.md
+    - "Полемический узел: Объектно-Ориентированная Онтология как критическое зеркало": book/34-part4-06-ooo.md
+    - "Квантовый панпсихизм: диалог с QIP": book/35-part4-07-qip.md
+    - "Карта и путь: когнитом Анохина через оптику зазора": book/36-part4-08-cognitome.md
+    - "Квантовая физика: суперпозиция, коллапс и изнанка реальности": book/37-part4-09-quantum.md
+    - "Эпилог: Мы": book/38-part4-10-epilogue.md
+    - "Послесловие: Перекличка с Двенадцатью традициями": book/39-afterword.md
 
   # ——— ЯДРО (core/) ———
-  - Ядро проекта (Карты и каноны):
-    - Глоссарий (Канон 5.0): core/GLOSSARY.md
-    - Онтологический компас: core/ONTOLOGICAL_COMPASS.md
-    - Общая теория порождения смысла (ОТПС): core/OTPS.md
-    - Этика зазора: core/ETHICS.md
+  - "Ядро проекта (Карты и каноны)":
+    - "Глоссарий (Канон 5.0)": core/GLOSSARY.md
+    - "Онтологический компас": core/ONTOLOGICAL_COMPASS.md
+    - "Общая теория порождения смысла (ОТПС)": core/OTPS.md
+    - "Этика зазора": core/ETHICS.md
 
   # ——— РИЗОМЫ (rhizome/) ———
-  - Ризомы (Прикладные ответвления):
-    - Педагогическая ризома: rhizome/pedagogy/README.md
-    - Психологическая ризома: rhizome/psychology/README.md
-    - Философская ризома: rhizome/philosophy/README.md
-    - Социальная ризома: rhizome/social/README.md
-    - Технологическая ризома: rhizome/technology/README.md
+  - "Ризомы (Прикладные ответвления)":
+    - "Педагогическая ризома": rhizome/pedagogy/README.md
+    - "Психологическая ризома": rhizome/psychology/README.md
+    - "Философская ризома": rhizome/philosophy/README.md
+    - "Социальная ризома": rhizome/social/README.md
+    - "Технологическая ризома": rhizome/technology/README.md
 
 markdown_extensions:
   - admonition
