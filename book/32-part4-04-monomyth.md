@@ -8,29 +8,29 @@
 %%{init: { 'flowchart': { 'nodeSpacing': 80, 'rankSpacing': 50, 'padding': 15 } } }%%
 graph TB
     subgraph "ЧАСТЬ 1: УХОД"
-        A1[Призыв&nbsp;&nbsp;&nbsp;<br/><i>преквалиа</i>]
-        A2[Отказ&nbsp;&nbsp;&nbsp;<br/><i>сопротивление кенозису</i>]
-        A3[Помощь&nbsp;&nbsp;&nbsp;<br/><i>встреча с проводником</i>]
-        A4[Порог&nbsp;&nbsp;&nbsp;<br/><i>акт кенозиса</i>]
-        A5[Чрево кита&nbsp;&nbsp;&nbsp;<br/><i>предельный кенозис</i>]
+        A1[Призыв&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>преквалиа</i>]
+        A2[Отказ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>сопротивление кенозису</i>]
+        A3[Помощь&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>встреча с проводником</i>]
+        A4[Порог&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>акт кенозиса</i>]
+        A5[Чрево кита&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>предельный кенозис</i>]
     end
     
     subgraph "ЧАСТЬ 2: ИНИЦИАЦИЯ"
-        B1[Испытания&nbsp;&nbsp;&nbsp;<br/><i>тренировка дипластии</i>]
-        B2[Богиня&nbsp;&nbsp;&nbsp;<br/><i>чистый резонанс</i>]
-        B3[Искусительница&nbsp;&nbsp;&nbsp;<br/><i>соблазн маски</i>]
-        B4[Отец&nbsp;&nbsp;&nbsp;<br/><i>искупление детерминанты</i>]
-        B5[Апофеоз&nbsp;&nbsp;&nbsp;<br/><i>метаквалиа</i>]
-        B6[Дар&nbsp;&nbsp;&nbsp;<br/><i>способность передавать зазор</i>]
+        B1[Испытания&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>тренировка дипластии</i>]
+        B2[Богиня&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>чистый резонанс</i>]
+        B3[Искусительница&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>соблазн маски</i>]
+        B4[Отец&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>искупление детерминанты</i>]
+        B5[Апофеоз&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>метаквалиа</i>]
+        B6[Дар&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>способность передавать зазор</i>]
     end
     
     subgraph "ЧАСТЬ 3: ВОЗВРАЩЕНИЕ"
-        C1[Отказ&nbsp;&nbsp;&nbsp;<br/><i>искушение чистым кенозисом</i>]
-        C2[Полёт&nbsp;&nbsp;&nbsp;<br/><i>автопоэтическая рекурсия</i>]
-        C3[Спасение&nbsp;&nbsp;&nbsp;<br/><i>этика Другого</i>]
-        C4[Порог&nbsp;&nbsp;&nbsp;<br/><i>интеграция без детерминанты</i>]
-        C5[Мастер&nbsp;&nbsp;&nbsp;<br/><i>свобода носить маску</i>]
-        C6[Свобода&nbsp;&nbsp;&nbsp;<br/><i>способность открывать зазор</i>]
+        C1[Отказ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>искушение чистым кенозисом</i>]
+        C2[Полёт&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>автопоэтическая рекурсия</i>]
+        C3[Спасение&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>этика Другого</i>]
+        C4[Порог&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>интеграция без детерминанты</i>]
+        C5[Мастер&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>свобода носить маску</i>]
+        C6[Свобода&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><i>способность открывать зазор</i>]
     end
     
     A1 --> A2 --> A3 --> A4 --> A5
