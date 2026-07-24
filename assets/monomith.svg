@@ -1,4 +1,3 @@
-
 <svg
    id="svg2"
    sodipodi:version="0.32"
@@ -15,7 +14,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   style="background-color: #ffffff;">
+   
+  <!-- Белый прямоугольник на весь холст для гарантированного фона -->
+  <rect width="100%" height="100%" fill="#ffffff" />
+
   <metadata
      id="metadata7">
     <rdf:RDF>
