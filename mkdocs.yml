@@ -17,11 +17,11 @@ theme:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Переключить на тёмную тему
     - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Переключить на светлую тему
 
 nav:
   - "Главная": index.md
@@ -69,7 +69,7 @@ nav:
     - "Даосская оптика: Пу, у-вэй и резонанс изнанки": book/30-part4-02-daoism.md
     - "Конфуцианство: ритуал как осознанная маска": book/31-part4-03-confucianism.md
     - "Мономиф: путь героя через оптику зазора": book/32-part4-04-monomyth.md
-    - "Роза Мира: гаввах как анти-резонанс": book/33-part4-05-roza-mira.md
+    - "«Роза Мира» и «Зазор»: сопоставление двух языков": book/33-part4-05-roza-mira.md # <-- ОБНОВЛЕНО НАЗВАНИЕ
     - "Полемический узел: Объектно-Ориентированная Онтология как критическое зеркало": book/34-part4-06-ooo.md
     - "Квантовый панпсихизм: диалог с QIP": book/35-part4-07-qip.md
     - "Карта и путь: когнитом Анохина через оптику зазора": book/36-part4-08-cognitome.md
@@ -77,18 +77,27 @@ nav:
     - "Эпилог: Мы": book/38-part4-10-epilogue.md
     - "Послесловие: Перекличка с Двенадцатью традициями": book/39-afterword.md
 
+  # ——— ЯДРО ПРОЕКТА (core/) ———
   - "Ядро проекта (Карты и каноны)":
     - "Канонический глоссарий": core/GLOSSARY.md
     - "Онтологический компас": core/ONTOLOGICAL_COMPASS.md
     - "Общая теория порождения смысла (ОТПС)": core/OTPS.md
-    - "Этика зазора": core/ETHICS.md
+    - "Этика Зазора": core/ETHICS.md
 
+  # ——— ПРАКТИКА (practice/) ———
+  - "Практика и инструменты": # <-- ДОБАВЛЕН НОВЫЙ РАЗДЕЛ
+    - "Дневники исследователя": practice/diaries/README.md
+    - "Лаборатория (Черновики)": practice/черновики/README.md
+    - "Инструмент фиксации резонансного следа": practice/черновики/инструмент-фиксации-резонансного-следа.md
+    - "Антропотехника соавторства с ИИ": practice/черновики/антропотехника-соавторства.md
+
+  # ——— РИЗОМЫ (прикладные ответвления) ———
   - "Ризомы (Прикладные ответвления)":
     - "Педагогическая ризома": rhizome/pedagogy/README.md
     - "Психологическая ризома": rhizome/psychology/README.md
-    - "Философская ризома": rhizome/philosophy/README.md
+    - "Философская ризома": rhizome/philosophy/README.md # Проверьте, не лежит ли это в папке philosophy/ вместо rhizome/philosophy/
     - "Социальная ризома": rhizome/social/README.md
-    - "Технологическая ризома": rhizome/technology/README.md
+    - "Технологическая ризома": rhizome/technology/README.md # Проверьте, не лежит ли это в philosophy/technology-ai.md
 
 markdown_extensions:
   - admonition
