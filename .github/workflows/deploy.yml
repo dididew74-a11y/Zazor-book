@@ -22,15 +22,15 @@ jobs:
           cp -r book docs/
           cp -r core docs/
           cp -r rhizome docs/
-          cp -r practice docs/          # <-- ДОБАВЛЕНО: копирование папки practice
-          cp -r assets docs/            # <-- Убедитесь, что папка assets существует
+          cp -r practice docs/
+          cp -r assets docs/
 
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install mkdocs-material pymdownx-extensions
+        run: pip install mkdocs-material pymdownx
 
       - name: Build and deploy
         run: mkdocs gh-deploy --force
