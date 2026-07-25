@@ -97,7 +97,7 @@ nav:
     - "Психологическая ризома": rhizome/psychology/README.md
     - "Философская ризома": rhizome/philosophy/README.md # Проверьте, не лежит ли это в папке philosophy/ вместо rhizome/philosophy/
     - "Социальная ризома": rhizome/social/README.md
-    - "Технологическая ризома": rhizome/technology/README.md # Проверьте, не лежит ли это в philosophy/technology-ai.md
+    - "Технологическая ризома": rhizome/philosophy/technology-ai/README.md
 
 markdown_extensions:
   - admonition
