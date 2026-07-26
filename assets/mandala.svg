@@ -47,10 +47,10 @@
   <!-- Цикл (большой круг) -->
   <circle cx="500" cy="500" r="300" fill="url(#cycleGlow)" stroke="#2E86AB" stroke-width="2.5" opacity="0.8"/>
   
-  <!-- 1. ВДОХ (верх-право) -->
+    <!-- 1. ВДОХ (верх-право) -->
   <g id="inhale">
     <path d="M 500 200 A 300 300 0 0 1 800 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="680" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
+    <text x="710" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
   </g>
   
   <!-- 2. ЗАДЕРЖКА (право-низ) -->
