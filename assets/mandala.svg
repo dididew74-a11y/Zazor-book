@@ -58,7 +58,7 @@
     <!-- Линия от центра основания (240, 650) к внутреннему кругу (327, 600) -->
     <line x1="240" y1="650" x2="327" y2="600" stroke="#D4AF37" stroke-width="2" opacity="0.6"/>
     <text x="190" y="670" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#8B6914">РЕКУРСИЯ</text>
-    <text x="187" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">спираль</text>
+    <text x="190" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">спираль</text>
   </g>
 
   <!-- 5. ЦИКЛ ДЫХАНИЯ (стрелки) -->
