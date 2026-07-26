@@ -48,7 +48,7 @@
     <!-- Линия от центра основания (760, 650) к внутреннему кругу (673, 600) -->
     <line x1="760" y1="650" x2="673" y2="600" stroke="#D4AF37" stroke-width="2" opacity="0.6"/>
     <text x="845" y="670" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#8B6914">ИНТЕРИОРИЗАЦИЯ</text>
-    <text x="806" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">сворачивание</text>
+    <text x="801" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">сворачивание</text>
   </g>
   
   <!-- ЛЕВЫЙ НИЖНИЙ УЗЕЛ: РЕКУРСИЯ (поворот на 240°) -->
