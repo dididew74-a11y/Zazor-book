@@ -84,8 +84,8 @@
   <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право) -->
   <g id="dialogical">
     <circle cx="673" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
-    <text x="593" y="560" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
-    <text x="593" y="585" text-anchor="start" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
+    <text x="595" y="560" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
+    <text x="595" y="590" text-anchor="start" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
   </g>
   
   <!-- ПРЕКВАЛИА (лево) -->
