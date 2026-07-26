@@ -97,9 +97,9 @@
     </g>
     
     <g id="stage-gift">
-      <circle cx="150" cy="395" r="5" fill="#2E86AB"/>
-      <text x="125" y="395" text-anchor="end">Окончательный дар</text>
-      <text x="125" y="410" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(архитектура проводника)</text>
+      <circle cx="155" cy="410" r="5" fill="#2E86AB"/>
+      <text x="125" y="410" text-anchor="end">Окончательный дар</text>
+      <text x="125" y="425" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(архитектура проводника)</text>
     </g>
   </g>
 
