@@ -107,7 +107,7 @@
   <g id="return" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#28A745">
     <g id="stage-refusal-return">
       <circle cx="160" cy="400" r="5" fill="#28A745"/>
-      <text x="125" y="350" text-anchor="end">Отказ от возвращения</text>
+      <text x="125" y="320" text-anchor="end">Отказ от возвращения</text>
       <text x="125" y="335" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(ловушка присвоения)</text>
     </g>
     
@@ -130,9 +130,9 @@
     </g>
     
     <g id="stage-master">
-      <circle cx="250" cy="160" r="5" fill="#28A745"/>
-      <text x="200" y="180" text-anchor="end">Мастер двух миров</text>
-      <text x="200" y="195" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
+      <circle cx="350" cy="160" r="5" fill="#28A745"/>
+      <text x="250" y="180" text-anchor="end">Мастер двух миров</text>
+      <text x="250" y="195" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
     </g>
     
     <g id="stage-freedom">
