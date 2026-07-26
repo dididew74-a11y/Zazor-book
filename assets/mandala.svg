@@ -107,7 +107,7 @@
     <circle cx="593" cy="450" r="4" fill="#D4AF37"/>
     <text x="605" y="445" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">УСЛОЖНЕНИЕ</text>
     <circle cx="500" cy="625" r="4" fill="#D4AF37"/>
-    <text x="500" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
+    <text x="500" y="600" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
     <circle cx="407" cy="450" r="4" fill="#D4AF37"/>
     <text x="385" y="445" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">МЕТАНОЙЯ</text>
   </g>
