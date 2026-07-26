@@ -58,9 +58,9 @@
     </g>
     
     <g id="stage-whale">
-      <circle cx="620" cy="310" r="5" fill="#D4AF37"/>
-      <text x="635" y="310" text-anchor="start">Чрево кита</text>
-      <text x="635" y="325" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(пребывание в Изнанке)</text>
+      <circle cx="700" cy="340" r="5" fill="#D4AF37"/>
+      <text x="735" y="340" text-anchor="start">Чрево кита</text>
+      <text x="735" y="355" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(пребывание в Изнанке)</text>
     </g>
   </g>
 
@@ -144,9 +144,9 @@
 
   <!-- НАЗВАНИЯ ТРЁХ ЧАСТЕЙ -->
   <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold">
-    <text x="720" y="340" fill="#D4AF37" text-anchor="middle">ЧАСТЬ 1: УХОД</text>
+    <text x="720" y="90" fill="#D4AF37" text-anchor="middle">ЧАСТЬ 1: УХОД</text>
     <text x="430" y="650" fill="#2E86AB" text-anchor="middle">ЧАСТЬ 2: ИНИЦИАЦИЯ</text>
-    <text x="180" y="340" fill="#28A745" text-anchor="middle">ЧАСТЬ 3: ВОЗВРАЩЕНИЕ</text>
+    <text x="180" y="90" fill="#28A745" text-anchor="middle">ЧАСТЬ 3: ВОЗВРАЩЕНИЕ</text>
   </g>
 
   <!-- СТРЕЛКИ НАПРАВЛЕНИЯ (сдвинуты на -40 по X) -->
