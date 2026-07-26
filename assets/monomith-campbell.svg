@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" width="800" height="700">
   <defs>
-    <!-- Маркер-стрелка для направления пути -->
     <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
       <polygon points="0 0, 8 4, 0 8" fill="#2E86AB" />
     </marker>
@@ -11,90 +10,84 @@
   <rect width="100%" height="100%" fill="#FAFAFA"/>
 
   <!-- 2. ОСНОВНАЯ СТРУКТУРА ПУТИ -->
-  <!-- Внешний круг пути -->
-  <circle cx="300" cy="300" r="220" fill="none" stroke="#2E86AB" stroke-width="3" opacity="0.8"/>
+  <circle cx="400" cy="350" r="250" fill="none" stroke="#2E86AB" stroke-width="3" opacity="0.8"/>
   
-  <!-- Разделитель миров (Известное / Неизвестное) -->
-  <line x1="80" y1="300" x2="520" y2="300" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+  <!-- Разделитель миров -->
+  <line x1="150" y1="350" x2="650" y2="350" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
 
   <!-- 3. ЦЕНТРАЛЬНЫЕ НАДПИСИ -->
   <g id="center-text" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
-    <text x="300" y="285" font-size="22" font-weight="bold" fill="#2E86AB" letter-spacing="1">ПУТЬ ГЕРОЯ</text>
-    <text x="300" y="315" font-size="14" font-weight="600" fill="#8B6914" letter-spacing="0.5">ОТКРОВЕНИЕ</text>
+    <text x="400" y="335" font-size="24" font-weight="bold" fill="#2E86AB" letter-spacing="1">ПУТЬ ГЕРОЯ</text>
+    <text x="400" y="365" font-size="14" font-weight="600" fill="#8B6914" letter-spacing="0.5">ОТКРОВЕНИЕ</text>
     
-    <!-- Надписи миров -->
-    <text x="300" y="190" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">ИЗВЕСТНОЕ</text>
-    <text x="300" y="440" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
+    <text x="400" y="220" font-size="13" font-weight="bold" fill="#C8A66B" letter-spacing="2">ИЗВЕСТНОЕ</text>
+    <text x="400" y="510" font-size="13" font-weight="bold" fill="#C8A66B" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
   </g>
 
-  <!-- 4. ЭТАПЫ ПУТИ (Слой Кэмпбелла) -->
-  <g id="campbell-stages" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#1E5A7E">
+  <!-- 4. ЭТАПЫ ПУТИ -->
+  <g id="campbell-stages" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#1E5A7E">
     
-    <!-- Правая сторона (Нисхождение) -->
-    <g id="stage-call" text-anchor="start">
-      <circle cx="470" cy="150" r="4" fill="#2E86AB"/>
-      <text x="485" y="155">Зов приключений</text>
-    </g>
-    
-    <g id="stage-aid" text-anchor="start">
-      <circle cx="510" cy="230" r="4" fill="#2E86AB"/>
-      <text x="525" y="235">Помощь высших сил</text>
+    <!-- Правая сторона -->
+    <g id="stage-call">
+      <circle cx="620" cy="180" r="4" fill="#2E86AB"/>
+      <text x="635" y="185" text-anchor="start">Зов приключений</text>
     </g>
     
-    <g id="stage-guardian" text-anchor="start">
-      <circle cx="520" cy="300" r="4" fill="#2E86AB"/>
-      <text x="535" y="305">Страж порога</text>
+    <g id="stage-aid">
+      <circle cx="640" cy="280" r="4" fill="#2E86AB"/>
+      <text x="655" y="285" text-anchor="start">Помощь высших сил</text>
     </g>
     
-    <g id="stage-threshold" text-anchor="start">
-      <circle cx="490" cy="380" r="4" fill="#2E86AB"/>
-      <text x="505" y="385">Порог</text>
-      <text x="505" y="402" font-size="11" font-weight="normal" font-style="italic" fill="#555">(начало трансформации)</text>
+    <g id="stage-guardian">
+      <circle cx="645" cy="350" r="4" fill="#2E86AB"/>
+      <text x="660" y="355" text-anchor="start">Страж порога</text>
+    </g>
+    
+    <g id="stage-threshold">
+      <circle cx="625" cy="430" r="4" fill="#2E86AB"/>
+      <text x="640" y="435" text-anchor="start">Порог</text>
+      <text x="640" y="450" font-size="10" font-weight="normal" font-style="italic" fill="#555">(начало трансформации)</text>
     </g>
 
-    <!-- Нижняя часть (Инициация) -->
-    <g id="stage-mentor" text-anchor="middle">
-      <circle cx="400" cy="480" r="4" fill="#2E86AB"/>
-      <text x="400" y="505">Наставник / Помощник</text>
+    <!-- Нижняя часть -->
+    <g id="stage-mentor">
+      <circle cx="520" cy="570" r="4" fill="#2E86AB"/>
+      <text x="520" y="590" text-anchor="middle">Наставник / Помощник</text>
     </g>
 
-    <g id="stage-trials" text-anchor="middle">
-      <text x="300" y="550" font-size="14" font-weight="bold" fill="#1E5A7E">Испытания и соблазны</text>
+    <g id="stage-trials">
+      <text x="400" y="640" text-anchor="middle" font-size="13" font-weight="bold" fill="#1E5A7E">Испытания и соблазны</text>
     </g>
 
-    <g id="stage-abyss" text-anchor="middle">
-      <text x="300" y="510" font-size="15" font-weight="bold" fill="#8B6914">Бездна смерти</text>
-      <text x="300" y="528" font-size="13" font-weight="normal" font-style="italic" fill="#8B6914">и возрождения</text>
+    <g id="stage-abyss">
+      <text x="400" y="610" text-anchor="middle" font-size="13" font-weight="bold" fill="#8B6914">Бездна смерти</text>
+      <text x="400" y="626" text-anchor="middle" font-size="11" font-weight="normal" font-style="italic" fill="#8B6914">и возрождения</text>
     </g>
 
-    <!-- Левая сторона (Возвращение) -->
-    <g id="stage-reward" text-anchor="end">
-      <circle cx="110" cy="380" r="4" fill="#2E86AB"/>
-      <text x="95" y="385">Награда</text>
-      <text x="95" y="402" font-size="11" font-weight="normal" font-style="italic" fill="#555">(Дар богов)</text>
+    <!-- Левая сторона -->
+    <g id="stage-reward">
+      <circle cx="175" cy="430" r="4" fill="#2E86AB"/>
+      <text x="160" y="435" text-anchor="end">Награда</text>
+      <text x="160" y="450" text-anchor="end" font-size="10" font-weight="normal" font-style="italic" fill="#555">(Дар богов)</text>
     </g>
 
-    <g id="stage-transformation" text-anchor="end">
-      <circle cx="80" cy="300" r="4" fill="#2E86AB"/>
-      <text x="65" y="305">Трансформация</text>
+    <g id="stage-transformation">
+      <circle cx="155" cy="350" r="4" fill="#2E86AB"/>
+      <text x="140" y="355" text-anchor="end">Трансформация</text>
     </g>
 
-    <g id="stage-return" text-anchor="end">
-      <circle cx="110" cy="220" r="4" fill="#2E86AB"/>
-      <text x="95" y="225">Возвращение</text>
+    <g id="stage-return">
+      <circle cx="175" cy="270" r="4" fill="#2E86AB"/>
+      <text x="160" y="275" text-anchor="end">Возвращение</text>
     </g>
   </g>
 
-  <!-- 5. НАПРАВЛЕНИЕ ДВИЖЕНИЯ (Стрелки по кругу) -->
+  <!-- 5. НАПРАВЛЕНИЕ ДВИЖЕНИЯ -->
   <g id="direction-arrows" fill="none" stroke="#2E86AB" stroke-width="2" marker-end="url(#arrow)" opacity="0.6">
-    <!-- Верхняя дуга (слева направо) -->
-    <path d="M 150 130 A 220 220 0 0 1 450 130" />
-    <!-- Правая дуга (сверху вниз) -->
-    <path d="M 490 200 A 220 220 0 0 1 490 400" />
-    <!-- Нижняя дуга (справа налево) -->
-    <path d="M 450 470 A 220 220 0 0 1 150 470" />
-    <!-- Левая дуга (снизу вверх) -->
-    <path d="M 110 400 A 220 220 0 0 1 110 200" />
+    <path d="M 200 180 A 250 250 0 0 1 600 180" />
+    <path d="M 620 250 A 250 250 0 0 1 620 450" />
+    <path d="M 600 520 A 250 250 0 0 1 200 520" />
+    <path d="M 180 450 A 250 250 0 0 1 180 250" />
   </g>
 
 </svg>
