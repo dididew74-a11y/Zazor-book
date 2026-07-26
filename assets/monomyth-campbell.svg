@@ -53,8 +53,8 @@
     
     <g id="stage-threshold">
       <circle cx="640" cy="270" r="5" fill="#D4AF37"/>
-      <text x="695" y="290" text-anchor="start">Переход первого порога</text>
-      <text x="695" y="305" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(кенозис)</text>
+      <text x="695" y="270" text-anchor="start">Переход первого порога</text>
+      <text x="695" y="285" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(кенозис)</text>
     </g>
     
     <g id="stage-whale">
