@@ -130,9 +130,9 @@
     </g>
     
     <g id="stage-master">
-      <circle cx="340" cy="220" r="5" fill="#28A745"/>
-      <text x="320" y="180" text-anchor="end">Мастер двух миров</text>
-      <text x="320" y="195" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
+      <circle cx="250" cy="160" r="5" fill="#28A745"/>
+      <text x="200" y="180" text-anchor="end">Мастер двух миров</text>
+      <text x="200" y="195" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
     </g>
     
     <g id="stage-freedom">
