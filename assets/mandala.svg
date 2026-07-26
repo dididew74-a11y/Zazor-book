@@ -51,8 +51,8 @@
   <g id="interiorization">
     <path d="M 846 700 L 746 700 L 796 600 Z" fill="#C8A66B" opacity="0.7"/>
     <line x1="746" y1="650" x2="620" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
-    <text x="810" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">ИНТЕРИОРИЗАЦИЯ</text>
-    <text x="810" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">сворачивание</text>
+    <text x="810" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#8B6914">ИНТЕРИОРИЗАЦИЯ</text>
+    <text x="810" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">сворачивание</text>
   </g>
   
   <!-- РЕКУРСИЯ (лево-низ) -->
@@ -60,7 +60,7 @@
     <path d="M 154 700 L 254 700 L 204 600 Z" fill="#C8A66B" opacity="0.7"/>
     <line x1="254" y1="650" x2="380" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
     <text x="194" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">РЕКУРСИЯ</text>
-    <text x="194" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">спираль</text>
+    <text x="194" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">спираль</text>
   </g>
 
   <!-- 1. ВДОХ (верх-право) -->
@@ -91,21 +91,21 @@
   <g id="metaqualia">
     <circle cx="500" cy="300" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="500" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">МЕТАКВАЛИА</text>
-    <text x="500" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Я есмь»</text>
+    <text x="500" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">«Я есмь»</text>
   </g>
   
   <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право) -->
   <g id="dialogical">
     <circle cx="673" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="610" y="560" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
-    <text x="610" y="580" text-anchor="start" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
+    <text x="610" y="580" text-anchor="start" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">«Совместный смысл»</text>
   </g>
   
   <!-- ПРЕКВАЛИА (лево) -->
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="370" y="560" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
-    <text x="365" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Туман до начала»</text>
+    <text x="365" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">«Туман до начала»</text>
   </g>
   
   <!-- Точки трансформации -->
