@@ -44,14 +44,15 @@
     
     <g id="stage-refusal">
       <circle cx="690" cy="280" r="5" fill="#D4AF37"/>
-      <text x="735" y="280" text-anchor="start">Отказ от призыва</text>
+      <text x="745" y="280" text-anchor="start">Отказ от призыва</text>
       <text x="735" y="295" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(детерминанта)</text>
     </g>
     
     <g id="stage-help">
       <circle cx="760" cy="400" r="5" fill="#D4AF37"/>
-      <text x="775" y="400" text-anchor="start">Сверхъестественная помощь</text>
-      <text x="775" y="415" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(встреча со Знаком)</text>
+      <text x="785" y="400" text-anchor="start">Сверхъестественная</text>
+      <text x="775" y="415" text-anchor="start">помощь</text>
+      <text x="775" y="430" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(встреча со Знаком)</text>
     </g>
     
     <g id="stage-threshold">
