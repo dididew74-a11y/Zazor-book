@@ -112,9 +112,9 @@
     </g>
     
     <g id="stage-flight">
-      <circle cx="175" cy="320" r="5" fill="#28A745"/>
-      <text x="100" y="320" text-anchor="middle">Магический полёт</text>
-      <text x="100" y="335" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(автопоэтическая рекурсия)</text>
+      <circle cx="175" cy="335" r="5" fill="#28A745"/>
+      <text x="90" y="320" text-anchor="middle">Магический полёт</text>
+      <text x="90" y="335" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(автопоэтическая рекурсия)</text>
     </g>
     
     <g id="stage-rescue">
