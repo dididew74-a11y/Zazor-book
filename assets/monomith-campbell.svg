@@ -145,7 +145,7 @@
   <!-- НАЗВАНИЯ ТРЁХ ЧАСТЕЙ -->
   <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold">
     <text x="720" y="340" fill="#D4AF37" text-anchor="middle">ЧАСТЬ 1: УХОД</text>
-    <text x="450" y="850" fill="#2E86AB" text-anchor="middle">ЧАСТЬ 2: ИНИЦИАЦИЯ</text>
+    <text x="450" y="650" fill="#2E86AB" text-anchor="middle">ЧАСТЬ 2: ИНИЦИАЦИЯ</text>
     <text x="180" y="340" fill="#28A745" text-anchor="middle">ЧАСТЬ 3: ВОЗВРАЩЕНИЕ</text>
   </g>
 
