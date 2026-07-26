@@ -125,10 +125,10 @@
   
   <!-- КЕНОЗИС (справа вертикально) -->
   <text x="940" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(90 940 500)">КЕНОЗИС</text>
-  <text x="960" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E86AB" font-style="italic" transform="rotate(90 960 500)">КОНЦЕПТУАЛЬНАЯ НЕОПРЕДЕЛЕННОСТЬ</text>
+  <text x="960" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E86AB" font-style="italic" transform="rotate(90 960 500)">КОНЦЕПТУАЛЬНАЯ НЕОПРЕДЕЛЕННОСТЬ</text>
   
   <!-- СРЕДА (слева вертикально) -->
   <text x="60" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(-90 60 500)">СРЕДА</text>
-  <text x="40" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E86AB" font-style="italic" transform="rotate(-90 40 500)">СОБЫТИЕ ВСТРЕЧИ</text>
+  <text x="40" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E86AB" font-style="italic" transform="rotate(-90 40 500)">СОБЫТИЕ ВСТРЕЧИ</text>
 
 </svg>
