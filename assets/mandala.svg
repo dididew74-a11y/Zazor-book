@@ -26,7 +26,7 @@
   
   <!-- Треугольник связей (внутренний) -->
   <path d="M 500 300 Q 600 450 673 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
-  <path d="M 673 600 Q 500 650 327 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
+  <path d="M 673 600 Q 500 550 327 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
   <path d="M 327 600 Q 400 450 500 300" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
 
   <!-- 4. ТРИ УЗЛА (Идеальная симметрия 120 градусов) -->
