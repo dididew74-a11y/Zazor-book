@@ -101,13 +101,13 @@
   
   <!-- Точки трансформации -->
   <circle cx="593" cy="450" r="4" fill="#D4AF37"/>
-  <text x="605" y="445" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">УСЛОЖНЕНИЕ</text>
+  <text x="605" y="445" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">УСЛОЖНЕНИЕ</text>
   
   <circle cx="500" cy="625" r="4" fill="#D4AF37"/>
-  <text x="500" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
+  <text x="500" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
   
   <circle cx="408" cy="450" r="4" fill="#D4AF37"/>
-  <text x="385" y="445" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">МЕТАНОЙЯ</text>
+  <text x="385" y="445" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">МЕТАНОЙЯ</text>
   
   <!-- ЦЕНТР - ЗАЗОР -->
   <circle cx="500" cy="500" r="80" fill="url(#centerGlow)" stroke="#D4AF37" stroke-width="2.5"/>
