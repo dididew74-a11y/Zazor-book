@@ -137,7 +137,7 @@
     
     <g id="stage-freedom">
       <circle cx="430" cy="270" r="5" fill="#28A745"/>
-      <text x="430" y="285" text-anchor="start">Свобода жить</text>
+      <text x="400" y="285" text-anchor="start">Свобода жить</text>
     
     </g>
   </g>
