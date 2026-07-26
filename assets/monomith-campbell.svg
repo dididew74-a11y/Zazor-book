@@ -15,10 +15,10 @@
   <!-- Центральные надписи -->
   <g text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
     <text x="450" y="440" font-size="26" font-weight="bold" fill="#2E86AB" letter-spacing="1">ПУТЬ ГЕРОЯ</text>
-    <text x="450" y="470" font-size="15" font-weight="600" fill="#8B6914" letter-spacing="0.5">ОТКРОВЕНИЕ</text>
+    <text x="450" y="410" font-size="15" font-weight="600" fill="#8B6914" letter-spacing="0.5">ОТКРОВЕНИЕ</text>
     
     <text x="450" y="210" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">ИЗВЕСТНОЕ</text>
-    <text x="450" y="720" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
+    <text x="450" y="620" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
   </g>
 
   <!-- ТРИ ЧАСТИ ПУТИ (сдвинуты на -40 по X) -->
@@ -130,15 +130,15 @@
     </g>
     
     <g id="stage-master">
-      <circle cx="320" cy="280" r="5" fill="#28A745"/>
-      <text x="305" y="280" text-anchor="end">Мастер двух миров</text>
-      <text x="305" y="295" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
+      <circle cx="340" cy="280" r="5" fill="#28A745"/>
+      <text x="325" y="280" text-anchor="end">Мастер двух миров</text>
+      <text x="325" y="295" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
     </g>
     
     <g id="stage-freedom">
-      <circle cx="580" cy="280" r="5" fill="#28A745"/>
-      <text x="595" y="280" text-anchor="start">Свобода жить</text>
-      <text x="595" y="295" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(свобода для)</text>
+      <circle cx="560" cy="280" r="5" fill="#28A745"/>
+      <text x="575" y="280" text-anchor="start">Свобода жить</text>
+      <text x="575" y="295" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(свобода для)</text>
     </g>
   </g>
 
