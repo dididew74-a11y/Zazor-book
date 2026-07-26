@@ -91,8 +91,8 @@
   <!-- ПРЕКВАЛИА (лево) -->
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
-    <text x="350" y="590" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
-    <text x="350" y="610" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#8B6914" font-style="italic">«Туман до начала»</text>
+    <text x="360" y="560" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
+    <text x="360" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#8B6914" font-style="italic">«Туман до начала»</text>
   </g>
   
   <!-- Треугольник связей -->
