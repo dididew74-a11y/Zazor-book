@@ -68,7 +68,7 @@
   
   </g>
   
-  <!-- НАКОПЛЕНИЕ (лево-верх) -->
+  <!-- НАКОПЛЕНИЕ (лево-верх и чуть выше) -->
   <g id="exhale">
     <path d="M 200 500 A 300 300 0 0 1 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="320" y="730" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
@@ -85,14 +85,14 @@
     <text x="500" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Я есмь»</text>
   </g>
   
-  <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право) -->
+  <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право и чуть ближе к центру) -->
   <g id="dialogical">
     <circle cx="673" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="730" y="590" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
     <text x="730" y="607" text-anchor="start" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
   </g>
   
-  <!-- ПРЕКВАЛИА (лево) -->
+  <!-- ПРЕКВАЛИА (лево и чуть ближе к центру) -->
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="270" y="590" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
@@ -129,9 +129,8 @@
   
   <!-- КЕНОЗИС (справа вертикально) -->
   <text x="930" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(90 930 500)">КЕНОЗИС</text>
-  <text x="950" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E86AB" font-style="italic" transform="rotate(90 950 500)">опустошение от концепций</text>
   
   <!-- СРЕДА (слева вертикально) -->
   <text x="70" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(-90 70 500)">СРЕДА</text>
-  <text x="50" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E86AB" font-style="italic" transform="rotate(-90 50 500)">пространство встречи</text>
+
 </svg>
