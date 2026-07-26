@@ -85,15 +85,15 @@
     </g>
     
     <g id="stage-father">
-      <circle cx="150" cy="620" r="5" fill="#2E86AB"/>
-      <text x="135" y="620" text-anchor="end">Искупление перед отцом</text>
-      <text x="135" y="635" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(высшая дипластия)</text>
+      <circle cx="250" cy="620" r="5" fill="#2E86AB"/>
+      <text x="235" y="620" text-anchor="end">Искупление перед отцом</text>
+      <text x="235" y="635" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(высшая дипластия)</text>
     </g>
     
     <g id="stage-apotheosis">
-      <circle cx="180" cy="460" r="5" fill="#2E86AB"/>
-      <text x="165" y="460" text-anchor="end">Апофеоз</text>
-      <text x="165" y="475" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(гнозис)</text>
+      <circle cx="180" cy="470" r="5" fill="#2E86AB"/>
+      <text x="145" y="460" text-anchor="end">Апофеоз</text>
+      <text x="145" y="475" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(гнозис)</text>
     </g>
     
     <g id="stage-gift">
