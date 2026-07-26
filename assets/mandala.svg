@@ -100,7 +100,7 @@
   <path d="M 327 600 Q 400 450 500 300" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
   
   <!-- Точки трансформации -->
-  <circle cx="594" cy="450" r="4" fill="#D4AF37"/>
+  <circle cx="593" cy="450" r="4" fill="#D4AF37"/>
   <text x="605" y="445" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">УСЛОЖНЕНИЕ</text>
   
   <circle cx="500" cy="625" r="4" fill="#D4AF37"/>
