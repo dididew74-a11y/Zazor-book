@@ -43,8 +43,8 @@
   <g id="diplostia">
     <path d="M 500 100 L 450 200 L 550 200 Z" fill="#C8A66B" opacity="0.7"/>
     <line x1="500" y1="200" x2="500" y2="380" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
-    <text x="500" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">ДИПЛАСТИЯ</text>
-    <text x="500" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">камертон</text>
+    <text x="500" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#8B6914">ДИПЛАСТИЯ</text>
+    <text x="500" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">камертон</text>
   </g>
   
   <!-- ИНТЕРИОРИЗАЦИЯ (право-низ) -->
@@ -59,7 +59,7 @@
   <g id="recursion">
     <path d="M 154 700 L 254 700 L 204 600 Z" fill="#C8A66B" opacity="0.7"/>
     <line x1="254" y1="650" x2="380" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
-    <text x="194" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">РЕКУРСИЯ</text>
+    <text x="194" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#8B6914">РЕКУРСИЯ</text>
     <text x="194" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">спираль</text>
   </g>
 
@@ -105,7 +105,7 @@
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="370" y="560" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
-    <text x="365" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">«Туман до начала»</text>
+    <text x="370" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">«Туман до начала»</text>
   </g>
   
   <!-- Точки трансформации -->
