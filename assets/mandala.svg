@@ -68,7 +68,7 @@
   <!-- 4. НАКОПЛЕНИЕ (лево-верх) -->
   <g id="accumulate">
     <path d="M 200 500 A 300 300 0 0 1 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="280" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
+    <text x="330" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
   </g>
   
   <!-- Внутренний круг -->
