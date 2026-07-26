@@ -74,8 +74,8 @@
     
     <g id="stage-goddess">
       <circle cx="580" cy="630" r="5" fill="#2E86AB"/>
-      <text x="720" y="630" text-anchor="middle">Встреча с богиней</text>
-      <text x="720" y="645" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(диалогическое квалиа)</text>
+      <text x="700" y="630" text-anchor="middle">Встреча с богиней</text>
+      <text x="700" y="645" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(диалогическое квалиа)</text>
     </g>
     
     <g id="stage-temptation">
