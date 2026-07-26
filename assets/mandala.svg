@@ -14,39 +14,56 @@
     </marker>
   </defs>
   
+  <!-- 1. ФОН (Самый нижний слой) -->
   <rect width="1000" height="1000" fill="#FAFAFA"/>
   
-  <!-- Внешний круг -->
+  <!-- 2. СИНИЙ ЦИКЛ (Перенесен сюда, чтобы быть фоном для ВСЕХ остальных элементов) -->
+  <circle cx="500" cy="500" r="300" fill="url(#cycleGlow)" stroke="#2E86AB" stroke-width="2.5" opacity="0.8"/>
+
+  <!-- 3. Вспомогательные круги и линии (Лежат поверх синего круга, но под текстом) -->
   <circle cx="500" cy="500" r="400" fill="none" stroke="#C8A66B" stroke-width="3" opacity="0.5"/>
+  <circle cx="500" cy="500" r="200" fill="none" stroke="#D4AF37" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Треугольник связей -->
+  <path d="M 500 300 Q 600 450 673 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
+  <path d="M 673 600 Q 500 650 327 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
+  <path d="M 327 600 Q 400 450 500 300" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
+  
+  <!-- Соединительные линии -->
+  <line x1="500" y1="420" x2="500" y2="200" stroke="#D4AF37" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+  <line x1="560" y1="540" x2="746" y2="650" stroke="#D4AF37" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+  <line x1="440" y1="540" x2="254" y2="650" stroke="#D4AF37" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+  <line x1="500" y1="420" x2="500" y2="300" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
+  <line x1="560" y1="540" x2="673" y2="600" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
+  <line x1="440" y1="540" x2="327" y2="600" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- 4. ФИГУРЫ И ТЕКСТ (Рисуются последними = лежат на самом верху) -->
   
   <!-- ДИПЛАСТИЯ (верх) -->
   <g id="diplostia">
     <path d="M 500 100 L 450 200 L 550 200 Z" fill="#C8A66B" opacity="0.7"/>
+    <line x1="500" y1="200" x2="500" y2="380" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
     <text x="500" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">ДИПЛАСТИЯ</text>
     <text x="500" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">камертон</text>
-    <line x1="500" y1="200" x2="500" y2="380" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
   </g>
   
   <!-- ИНТЕРИОРИЗАЦИЯ (право-низ) -->
   <g id="interiorization">
     <path d="M 846 700 L 746 700 L 796 600 Z" fill="#C8A66B" opacity="0.7"/>
+    <line x1="746" y1="650" x2="620" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
     <text x="810" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">ИНТЕРИОРИЗАЦИЯ</text>
     <text x="810" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">сворачивание</text>
-    <line x1="746" y1="650" x2="620" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
   </g>
   
   <!-- РЕКУРСИЯ (лево-низ) -->
   <g id="recursion">
     <path d="M 154 700 L 254 700 L 204 600 Z" fill="#C8A66B" opacity="0.7"/>
+    <line x1="254" y1="650" x2="380" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
     <text x="194" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">РЕКУРСИЯ</text>
     <text x="194" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">спираль</text>
-    <line x1="254" y1="650" x2="380" y2="560" stroke="#C8A66B" stroke-width="2" opacity="0.4"/>
   </g>
-  
-  <!-- Цикл (большой круг) -->
-  <circle cx="500" cy="500" r="300" fill="url(#cycleGlow)" stroke="#2E86AB" stroke-width="2.5" opacity="0.8"/>
-  
-    <!-- 1. ВДОХ (верх-право) -->
+
+  <!-- 1. ВДОХ (верх-право) -->
   <g id="inhale">
     <path d="M 500 200 A 300 300 0 0 1 800 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="710" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
@@ -70,9 +87,6 @@
     <text x="330" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
   </g>
   
-  <!-- Внутренний круг -->
-  <circle cx="500" cy="500" r="200" fill="none" stroke="#D4AF37" stroke-width="2" opacity="0.3"/>
-  
   <!-- МЕТАКВАЛИА (верх) -->
   <g id="metaqualia">
     <circle cx="500" cy="300" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
@@ -94,40 +108,31 @@
     <text x="365" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Туман до начала»</text>
   </g>
   
-  <!-- Треугольник связей -->
-  <path d="M 500 300 Q 600 450 673 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
-  <path d="M 673 600 Q 500 650 327 600" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
-  <path d="M 327 600 Q 400 450 500 300" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.6"/>
-  
   <!-- Точки трансформации -->
-  <circle cx="593" cy="450" r="4" fill="#D4AF37"/>
-  <text x="605" y="445" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">УСЛОЖНЕНИЕ</text>
-  
-  <circle cx="500" cy="625" r="4" fill="#D4AF37"/>
-  <text x="500" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
-  
-  <circle cx="407" cy="450" r="4" fill="#D4AF37"/>
-  <text x="385" y="445" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">МЕТАНОЙЯ</text>
+  <g id="transform-points">
+    <circle cx="593" cy="450" r="4" fill="#D4AF37"/>
+    <text x="605" y="445" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">УСЛОЖНЕНИЕ</text>
+    
+    <circle cx="500" cy="625" r="4" fill="#D4AF37"/>
+    <text x="500" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
+    
+    <circle cx="407" cy="450" r="4" fill="#D4AF37"/>
+    <text x="385" y="445" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#8B6914">МЕТАНОЙЯ</text>
+  </g>
   
   <!-- ЦЕНТР - ЗАЗОР -->
-  <circle cx="500" cy="500" r="80" fill="url(#centerGlow)" stroke="#D4AF37" stroke-width="2.5"/>
-  <circle cx="500" cy="500" r="6" fill="#D4AF37"/>
-  <text x="500" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ЗАЗОР</text>
-  
-  <!-- Соединительные линии -->
-  <line x1="500" y1="420" x2="500" y2="200" stroke="#D4AF37" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
-  <line x1="560" y1="540" x2="746" y2="650" stroke="#D4AF37" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
-  <line x1="440" y1="540" x2="254" y2="650" stroke="#D4AF37" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
-  <line x1="500" y1="420" x2="500" y2="300" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
-  <line x1="560" y1="540" x2="673" y2="600" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
-  <line x1="440" y1="540" x2="327" y2="600" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
+  <g id="center">
+    <circle cx="500" cy="500" r="80" fill="url(#centerGlow)" stroke="#D4AF37" stroke-width="2.5"/>
+    <circle cx="500" cy="500" r="6" fill="#D4AF37"/>
+    <text x="500" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ЗАЗОР</text>
+  </g>
   
   <!-- КЕНОЗИС (справа вертикально) -->
   <text x="940" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(90 940 500)">КЕНОЗИС</text>
-  <text x="960" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E86AB" font-style="bold" transform="rotate(90 960 500)">КОНЦЕПТУАЛЬНАЯ НЕОПРЕДЕЛЕННОСТЬ</text>
+  <text x="960" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E86AB" font-style="italic" transform="rotate(90 960 500)">КОНЦЕПТУАЛЬНАЯ НЕОПРЕДЕЛЕННОСТЬ</text>
   
   <!-- СРЕДА (слева вертикально) -->
   <text x="60" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(-90 60 500)">СРЕДА</text>
-  <text x="40" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E86AB" font-style="bold" transform="rotate(-90 40 500)">СОБЫТИЕ ВСТРЕЧИ</text>
+  <text x="40" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E86AB" font-style="italic" transform="rotate(-90 40 500)">СОБЫТИЕ ВСТРЕЧИ</text>
 
 </svg>
