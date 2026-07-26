@@ -36,13 +36,13 @@
     <g id="stage-call">
       <circle cx="485" cy="160" r="5" fill="#D4AF37"/>
       <text x="500" y="140" text-anchor="start">Призыв к приключению</text>
-      <text x="500" y="155" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(преквалиа)</text>
+      <text x="540" y="155" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(преквалиа)</text>
     </g>
     
     <g id="stage-refusal">
       <circle cx="600" cy="220" r="5" fill="#D4AF37"/>
-      <text x="665" y="220" text-anchor="start">Отказ от призыва</text>
-      <text x="665" y="235" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(детерминанта)</text>
+      <text x="645" y="210" text-anchor="start">Отказ от призыва</text>
+      <text x="660" y="225" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(детерминанта)</text>
     </g>
     
     <g id="stage-help">
@@ -53,12 +53,12 @@
     
     <g id="stage-threshold">
       <circle cx="640" cy="270" r="5" fill="#D4AF37"/>
-      <text x="695" y="270" text-anchor="start">Переход первого порога</text>
-      <text x="695" y="285" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(кенозис)</text>
+      <text x="695" y="290" text-anchor="start">Переход первого порога</text>
+      <text x="695" y="305" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(кенозис)</text>
     </g>
     
     <g id="stage-whale">
-      <circle cx="650" cy="340" r="5" fill="#D4AF37"/>
+      <circle cx="680" cy="340" r="5" fill="#D4AF37"/>
       <text x="710" y="340" text-anchor="start">Чрево кита</text>
       <text x="715" y="355" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(пребывание в Изнанке)</text>
     </g>
