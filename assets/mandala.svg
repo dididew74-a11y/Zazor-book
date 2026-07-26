@@ -51,30 +51,28 @@
   <g id="inhale">
     <path d="M 500 200 A 300 300 0 0 1 800 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="680" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
-    <text x="680" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1E5A7E">КОЛЛАПС</text>
-    <text x="680" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E5A7E" font-style="italic">рождение смысла</text>
+  
   </g>
   
   <!-- ЗАДЕРЖКА (право-низ) -->
   <g id="delay">
     <path d="M 800 500 A 300 300 0 0 1 500 800" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="740" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ЗАДЕРЖКА</text>
-    <text x="740" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1E5A7E" font-style="italic">интериоризация</text>
+ 
   </g>
   
   <!-- НАКОПЛЕНИЕ (низ-лево) -->
   <g id="accumulation">
     <path d="M 500 800 A 300 300 0 0 1 200 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="320" y="730" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
-    <text x="320" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E5A7E" font-style="italic">созревание потенциала</text>
+    <text x="260" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВЫДОХ</text>
+  
   </g>
   
   <!-- ВЫДОХ (лево-верх) -->
   <g id="exhale">
     <path d="M 200 500 A 300 300 0 0 1 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="260" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВЫДОХ</text>
-    <text x="260" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1E5A7E">ПРОБОЙ</text>
-    <text x="260" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E5A7E" font-style="italic">новое преквалиа</text>
+    <text x="320" y="730" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
+ 
   </g>
   
   <!-- Внутренний круг -->
