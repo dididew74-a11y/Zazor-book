@@ -47,32 +47,28 @@
   <!-- Цикл (большой круг) -->
   <circle cx="500" cy="500" r="300" fill="url(#cycleGlow)" stroke="#2E86AB" stroke-width="2.5" opacity="0.8"/>
   
-  <!-- ВДОХ (верх-право) -->
+  <!-- 1. ВДОХ (верх-право) -->
   <g id="inhale">
     <path d="M 500 200 A 300 300 0 0 1 800 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="680" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
-  
   </g>
   
-  <!-- ЗАДЕРЖКА (право-низ) -->
+  <!-- 2. ЗАДЕРЖКА (право-низ) -->
   <g id="delay">
     <path d="M 800 500 A 300 300 0 0 1 500 800" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="740" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ЗАДЕРЖКА</text>
- 
+    <text x="720" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ЗАДЕРЖКА</text>
   </g>
   
-  <!-- ВЫДОХ (низ-лево) -->
-  <g id="accumulation">
-    <path d="M 500 800 A 300 300 0 0 1 200 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="260" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВЫДОХ</text>
-  
-  </g>
-  
-  <!-- НАКОПЛЕНИЕ (лево-верх и чуть выше) -->
+  <!-- 3. ВЫДОХ (низ-лево) -->
   <g id="exhale">
+    <path d="M 500 800 A 300 300 0 0 1 200 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <text x="320" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВЫДОХ</text>
+  </g>
+  
+  <!-- 4. НАКОПЛЕНИЕ (лево-верх) -->
+  <g id="accumulate">
     <path d="M 200 500 A 300 300 0 0 1 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="320" y="730" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
- 
+    <text x="280" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
   </g>
   
   <!-- Внутренний круг -->
@@ -85,14 +81,14 @@
     <text x="500" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Я есмь»</text>
   </g>
   
-  <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право и чуть ближе к центру) -->
+  <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право) -->
   <g id="dialogical">
     <circle cx="673" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="730" y="590" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
     <text x="730" y="607" text-anchor="start" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
   </g>
   
-  <!-- ПРЕКВАЛИА (лево и чуть ближе к центру) -->
+  <!-- ПРЕКВАЛИА (лево) -->
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="270" y="590" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
@@ -128,9 +124,11 @@
   <line x1="440" y1="540" x2="327" y2="600" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
   
   <!-- КЕНОЗИС (справа вертикально) -->
-  <text x="930" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(90 930 500)">КЕНОЗИС</text>
+  <text x="940" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(90 940 500)">КЕНОЗИС</text>
+  <text x="960" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E86AB" font-style="italic" transform="rotate(90 960 500)">опустошение от концепций</text>
   
   <!-- СРЕДА (слева вертикально) -->
-  <text x="70" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(-90 70 500)">СРЕДА</text>
+  <text x="60" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E86AB" transform="rotate(-90 60 500)">СРЕДА</text>
+  <text x="40" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E86AB" font-style="italic" transform="rotate(-90 40 500)">пространство встречи</text>
 
 </svg>
