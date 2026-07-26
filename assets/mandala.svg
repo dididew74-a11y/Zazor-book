@@ -61,25 +61,25 @@
     <text x="190" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-weight="bold">спираль</text>
   </g>
 
-  <!-- 5. ЦИКЛ ДЫХАНИЯ (стрелки) -->
-  <g id="inhale">
-    <path d="M 500 200 A 300 300 0 0 1 800 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="710" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
-  </g>
-  
-  <g id="delay">
-    <path d="M 800 500 A 300 300 0 0 1 500 800" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="660" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ЗАДЕРЖКА</text>
+  <!-- 5. ЦИКЛ ДЫХАНИЯ (стрелки против часовой стрелки) -->
+  <g id="accumulate">
+    <path d="M 500 200 A 300 300 0 0 0 200 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <text x="330" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
   </g>
   
   <g id="exhale">
-    <path d="M 500 800 A 300 300 0 0 1 200 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <path d="M 200 500 A 300 300 0 0 0 500 800" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="330" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВЫДОХ</text>
   </g>
   
-  <g id="accumulate">
-    <path d="M 200 500 A 300 300 0 0 1 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="330" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
+  <g id="delay">
+    <path d="M 500 800 A 300 300 0 0 0 800 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <text x="660" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ЗАДЕРЖКА</text>
+  </g>
+  
+  <g id="inhale">
+    <path d="M 800 500 A 300 300 0 0 0 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <text x="710" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВДОХ</text>
   </g>
   
   <!-- 6. ВНУТРЕННИЕ ТОЧКИ (Квалиа) -->
