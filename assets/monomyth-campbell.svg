@@ -68,8 +68,8 @@
   <g id="initiation" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#1E5A7E">
     <g id="stage-trials">
       <circle cx="680" cy="440" r="5" fill="#2E86AB"/>
-      <text x="720" y="490" text-anchor="middle">Дорога испытаний</text>
-      <text x="720" y="505" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(дипластия)</text>
+      <text x="760" y="490" text-anchor="middle">Дорога испытаний</text>
+      <text x="760" y="505" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(дипластия)</text>
     </g>
     
     <g id="stage-goddess">
