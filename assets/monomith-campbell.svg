@@ -9,11 +9,11 @@
   <!-- ФОН -->
   <rect width="100%" height="100%" fill="#FAFAFA"/>
 
-  <!-- ОСНОВНОЙ КРУГ ПУТИ (уменьшен с 350 до 280) -->
+  <!-- ОСНОВНОЙ КРУГ ПУТИ -->
   <circle cx="450" cy="450" r="280" fill="none" stroke="#2E86AB" stroke-width="3" opacity="0.8"/>
 
-  <!-- РАЗДЕЛИТЕЛЬ МИРОВ -->
-  <line x1="150" y1="280" x2="750" y2="280" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+  <!-- РАЗДЕЛИТЕЛЬ МИРОВ (подогнан под радиус круга: от x=170 до x=730) -->
+  <line x1="170" y1="280" x2="730" y2="280" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
   
   <!-- Центральные надписи -->
   <g text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
@@ -24,15 +24,15 @@
     <text x="450" y="720" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
   </g>
 
-  <!-- ТРИ ЧАСТИ ПУТИ (радиус уменьшен с 350 до 280) -->
+  <!-- ТРИ ЧАСТИ ПУТИ (сдвинуты на +15 по X, -30 по Y) -->
   <!-- Часть 1: УХОД -->
-  <path d="M 450 170 A 280 280 0 0 1 730 450" fill="none" stroke="#D4AF37" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
+  <path d="M 465 140 A 280 280 0 0 1 745 420" fill="none" stroke="#D4AF37" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
   
   <!-- Часть 2: ИНИЦИАЦИЯ -->
-  <path d="M 730 450 A 280 280 0 0 1 170 450" fill="none" stroke="#2E86AB" stroke-width="4" opacity="0.6"/>
+  <path d="M 745 420 A 280 280 0 0 1 185 420" fill="none" stroke="#2E86AB" stroke-width="4" opacity="0.6"/>
   
   <!-- Часть 3: ВОЗВРАЩЕНИЕ -->
-  <path d="M 170 450 A 280 280 0 0 1 450 170" fill="none" stroke="#28A745" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
+  <path d="M 185 420 A 280 280 0 0 1 465 140" fill="none" stroke="#28A745" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
 
   <!-- ЭТАПЫ: ЧАСТЬ 1 - УХОД -->
   <g id="departure" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#8B6914">
@@ -152,14 +152,14 @@
     <text x="180" y="340" fill="#28A745" text-anchor="middle">ЧАСТЬ 3: ВОЗВРАЩЕНИЕ</text>
   </g>
 
-  <!-- СТРЕЛКИ НАПРАВЛЕНИЯ (радиус уменьшен с 350 до 280) -->
+  <!-- СТРЕЛКИ НАПРАВЛЕНИЯ (сдвинуты на +15 по X, -30 по Y) -->
   <g fill="none" stroke="#2E86AB" stroke-width="2" marker-end="url(#arrow)" opacity="0.6">
-    <path d="M 500 190 A 280 280 0 0 1 700 350" />
-    <path d="M 710 480 A 280 280 0 0 1 650 650" />
-    <path d="M 580 720 A 280 280 0 0 1 320 750" />
-    <path d="M 220 680 A 280 280 0 0 1 170 520" />
-    <path d="M 170 420 A 280 280 0 0 1 220 280" />
-    <path d="M 320 200 A 280 280 0 0 1 580 200" />
+    <path d="M 515 160 A 280 280 0 0 1 715 320" />
+    <path d="M 725 450 A 280 280 0 0 1 665 620" />
+    <path d="M 595 690 A 280 280 0 0 1 335 720" />
+    <path d="M 235 650 A 280 280 0 0 1 185 490" />
+    <path d="M 185 390 A 280 280 0 0 1 235 250" />
+    <path d="M 335 170 A 280 280 0 0 1 595 170" />
   </g>
 
 </svg>
