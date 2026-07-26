@@ -58,7 +58,7 @@
     <!-- Линия от центра основания (240, 650) к внутреннему кругу (327, 600) -->
     <line x1="240" y1="650" x2="327" y2="600" stroke="#D4AF37" stroke-width="2" opacity="0.6"/>
     <text x="190" y="670" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B6914">РЕКУРСИЯ</text>
-    <text x="185" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">спираль</text>
+    <text x="187" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">спираль</text>
   </g>
 
   <!-- 5. ЦИКЛ ДЫХАНИЯ (стрелки) -->
@@ -98,7 +98,7 @@
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="370" y="560" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
-    <text x="370" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Туман до начала»</text>
+    <text x="375" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Туман до начала»</text>
   </g>
   
   <!-- Точки трансформации -->
