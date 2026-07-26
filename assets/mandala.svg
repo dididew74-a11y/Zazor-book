@@ -102,7 +102,7 @@
   
   <!-- Точки трансформации -->
   <circle cx="586" cy="450" r="4" fill="#D4AF37"/>
-  <text x="605" y="445" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">УСЛОЖНЕНИЕ</text>
+  <text x="600" y="445" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">УСЛОЖНЕНИЕ</text>
   
   <circle cx="500" cy="625" r="4" fill="#D4AF37"/>
   <text x="500" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#8B6914">РЕКОНСТРУКЦИЯ</text>
