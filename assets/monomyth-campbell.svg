@@ -91,9 +91,9 @@
     </g>
     
     <g id="stage-apotheosis">
-      <circle cx="110" cy="500" r="5" fill="#2E86AB"/>
-      <text x="95" y="500" text-anchor="end">Апофеоз</text>
-      <text x="95" y="515" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(гнозис)</text>
+      <circle cx="180" cy="460" r="5" fill="#2E86AB"/>
+      <text x="165" y="460" text-anchor="end">Апофеоз</text>
+      <text x="165" y="475" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(гнозис)</text>
     </g>
     
     <g id="stage-gift">
