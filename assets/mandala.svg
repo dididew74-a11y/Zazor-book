@@ -76,22 +76,22 @@
   <!-- МЕТАКВАЛИА (верх) -->
   <g id="metaqualia">
     <circle cx="500" cy="300" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
-    <text x="500" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#8B6914">МЕТАКВАЛИА</text>
-    <text x="500" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Я есмь»</text>
+    <text x="500" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">МЕТАКВАЛИА</text>
+    <text x="500" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Я есмь»</text>
   </g>
   
   <!-- ДИАЛОГИЧЕСКОЕ КВАЛИА (право) -->
   <g id="dialogical">
     <circle cx="673" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
-    <text x="610" y="560" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
-    <text x="610" y="580" text-anchor="start" font-family="Arial, sans-serif" font-size="11" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
+    <text x="610" y="560" text-anchor="start" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ДИАЛОГИЧЕСКОЕ</text>
+    <text x="610" y="580" text-anchor="start" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Совместный смысл»</text>
   </g>
   
   <!-- ПРЕКВАЛИА (лево) -->
   <g id="prequalia">
     <circle cx="327" cy="600" r="12" fill="#F4E4C1" stroke="#D4AF37" stroke-width="2.5"/>
     <text x="370" y="560" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8B6914">ПРЕКВАЛИА</text>
-    <text x="365" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#8B6914" font-style="italic">«Туман до начала»</text>
+    <text x="365" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#8B6914" font-style="italic">«Туман до начала»</text>
   </g>
   
   <!-- Треугольник связей -->
