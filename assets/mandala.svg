@@ -61,14 +61,14 @@
  
   </g>
   
-  <!-- НАКОПЛЕНИЕ (низ-лево) -->
+  <!-- ВЫДОХ (низ-лево) -->
   <g id="accumulation">
     <path d="M 500 800 A 300 300 0 0 1 200 500" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="260" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">ВЫДОХ</text>
   
   </g>
   
-  <!-- ВЫДОХ (лево-верх) -->
+  <!-- НАКОПЛЕНИЕ (лево-верх) -->
   <g id="exhale">
     <path d="M 200 500 A 300 300 0 0 1 500 200" fill="none" stroke="#2E86AB" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="320" y="730" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E5A7E">НАКОПЛЕНИЕ</text>
