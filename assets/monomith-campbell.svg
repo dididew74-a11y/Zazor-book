@@ -21,15 +21,15 @@
     <text x="450" y="720" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
   </g>
 
-  <!-- ТРИ ЧАСТИ ПУТИ -->
+  <!-- ТРИ ЧАСТИ ПУТИ (сдвинуты на -40 по X) -->
   <!-- Часть 1: УХОД -->
-  <path d="M 465 140 A 280 280 0 0 1 745 420" fill="none" stroke="#D4AF37" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
+  <path d="M 425 140 A 280 280 0 0 1 705 420" fill="none" stroke="#D4AF37" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
   
   <!-- Часть 2: ИНИЦИАЦИЯ -->
-  <path d="M 745 420 A 280 280 0 0 1 185 420" fill="none" stroke="#2E86AB" stroke-width="4" opacity="0.6"/>
+  <path d="M 705 420 A 280 280 0 0 1 145 420" fill="none" stroke="#2E86AB" stroke-width="4" opacity="0.6"/>
   
   <!-- Часть 3: ВОЗВРАЩЕНИЕ -->
-  <path d="M 185 420 A 280 280 0 0 1 465 140" fill="none" stroke="#28A745" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
+  <path d="M 145 420 A 280 280 0 0 1 425 140" fill="none" stroke="#28A745" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
 
   <!-- ЭТАПЫ: ЧАСТЬ 1 - УХОД -->
   <g id="departure" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#8B6914">
@@ -149,18 +149,20 @@
     <text x="180" y="340" fill="#28A745" text-anchor="middle">ЧАСТЬ 3: ВОЗВРАЩЕНИЕ</text>
   </g>
 
-  <!-- СТРЕЛКИ НАПРАВЛЕНИЯ (три верхние опущены на 40px вниз) -->
+  <!-- СТРЕЛКИ НАПРАВЛЕНИЯ (сдвинуты на -40 по X) -->
   <g fill="none" stroke="#2E86AB" stroke-width="2" marker-end="url(#arrow)" opacity="0.6">
-    <!-- Верхняя правая стрелка (опущена) -->
-    <path d="M 535 155 A 280 280 0 0 1 735 315" />
-    <!-- Верхняя левая стрелка (опущена) -->
-    <path d="M 355 165 A 280 280 0 0 1 615 165" />
-    <!-- Левая верхняя стрелка (опущена) -->
-    <path d="M 205 385 A 280 280 0 0 1 255 245" />
-    <!-- Остальные три стрелки без изменений -->
-    <path d="M 745 405 A 280 280 0 0 1 685 575" />
-    <path d="M 615 645 A 280 280 0 0 1 355 675" />
-    <path d="M 255 605 A 280 280 0 0 1 205 445" />
+    <!-- Верхняя правая -->
+    <path d="M 495 155 A 280 280 0 0 1 695 315" />
+    <!-- Верхняя горизонтальная -->
+    <path d="M 315 165 A 280 280 0 0 1 575 165" />
+    <!-- Левая верхняя -->
+    <path d="M 165 385 A 280 280 0 0 1 215 245" />
+    <!-- Правая нижняя -->
+    <path d="M 705 405 A 280 280 0 0 1 645 575" />
+    <!-- Нижняя горизонтальная -->
+    <path d="M 575 645 A 280 280 0 0 1 315 675" />
+    <!-- Левая нижняя -->
+    <path d="M 215 605 A 280 280 0 0 1 165 445" />
   </g>
 
 </svg>
