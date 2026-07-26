@@ -131,14 +131,14 @@
     
     <g id="stage-master">
       <circle cx="350" cy="160" r="5" fill="#28A745"/>
-      <text x="250" y="180" text-anchor="end">Мастер двух миров</text>
-      <text x="250" y="195" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
+      <text x="280" y="150" text-anchor="end">Мастер двух миров</text>
+      <text x="280" y="165" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
     </g>
     
     <g id="stage-freedom">
-      <circle cx="460" cy="270" r="5" fill="#28A745"/>
-      <text x="500" y="280" text-anchor="start">Свобода жить</text>
-      <text x="500" y="295" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(свобода для)</text>
+      <circle cx="430" cy="270" r="5" fill="#28A745"/>
+      <text x="430" y="285" text-anchor="start">Свобода жить</text>
+    
     </g>
   </g>
 
