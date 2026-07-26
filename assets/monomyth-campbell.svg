@@ -79,9 +79,9 @@
     </g>
     
     <g id="stage-temptation">
-      <circle cx="260" cy="730" r="5" fill="#2E86AB"/>
-      <text x="260" y="760" text-anchor="middle">Искушение</text>
-      <text x="260" y="775" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(ловушка нарциссической маски)</text>
+      <circle cx="260" cy="630" r="5" fill="#2E86AB"/>
+      <text x="260" y="660" text-anchor="middle">Искушение</text>
+      <text x="260" y="675" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(ловушка нарциссической маски)</text>
     </g>
     
     <g id="stage-father">
