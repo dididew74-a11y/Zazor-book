@@ -10,7 +10,7 @@
   <rect width="100%" height="100%" fill="#FAFAFA"/>
 
   <!-- РАЗДЕЛИТЕЛЬ МИРОВ -->
-  <line x1="190" y1="270" x2="680" y2="280" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+  <line x1="190" y1="270" x2="680" y2="270" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
   
   <!-- Центральные надписи -->
   <g text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
@@ -131,14 +131,14 @@
     
     <g id="stage-master">
       <circle cx="340" cy="280" r="5" fill="#28A745"/>
-      <text x="325" y="280" text-anchor="end">Мастер двух миров</text>
-      <text x="325" y="295" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
+      <text x="320" y="280" text-anchor="end">Мастер двух миров</text>
+      <text x="320" y="295" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
     </g>
     
     <g id="stage-freedom">
       <circle cx="560" cy="280" r="5" fill="#28A745"/>
-      <text x="575" y="280" text-anchor="start">Свобода жить</text>
-      <text x="575" y="295" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(свобода для)</text>
+      <text x="570" y="280" text-anchor="start">Свобода жить</text>
+      <text x="570" y="295" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(свобода для)</text>
     </g>
   </g>
 
