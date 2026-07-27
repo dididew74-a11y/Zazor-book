@@ -116,20 +116,20 @@
       
       <g id="stage-flight">
         <circle cx="170" cy="335" r="5" fill="#28A745"/>
-        <text x="90" y="320" text-anchor="middle">Магический полёт</text>
-        <text x="90" y="335" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(автопоэтическая рекурсия)</text>
+        <text x="90" y="335" text-anchor="middle">Магический полёт</text>
+        <text x="90" y="350" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(автопоэтическая рекурсия)</text>
       </g>
       
       <g id="stage-rescue">
         <circle cx="185" cy="300" r="5" fill="#28A745"/>
-        <text x="120" y="275" text-anchor="middle">Спасение извне</text>
-        <text x="120" y="290" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(этический акт Другого)</text>
+        <text x="120" y="300" text-anchor="middle">Спасение извне</text>
+        <text x="120" y="315" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(этический акт Другого)</text>
       </g>
       
       <g id="stage-return-threshold">
         <circle cx="200" cy="270" r="5" fill="#28A745"/>
-        <text x="130" y="235" text-anchor="middle">Переход порога возвращения</text>
-        <text x="130" y="250" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(интеграция без детерминанты)</text>
+        <text x="120" y="270" text-anchor="middle">Переход порога возвращения</text>
+        <text x="120" y="285" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(интеграция без детерминанты)</text>
       </g>
       
       <g id="stage-master">
