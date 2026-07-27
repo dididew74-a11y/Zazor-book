@@ -122,14 +122,14 @@
       
       <g id="stage-rescue">
         <circle cx="185" cy="300" r="5" fill="#28A745"/>
-        <text x="120" y="300" text-anchor="middle">Спасение извне</text>
-        <text x="120" y="315" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(этический акт Другого)</text>
+        <text x="110" y="300" text-anchor="middle">Спасение извне</text>
+        <text x="110" y="315" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(этический акт Другого)</text>
       </g>
       
       <g id="stage-return-threshold">
         <circle cx="200" cy="270" r="5" fill="#28A745"/>
-        <text x="120" y="270" text-anchor="middle">Переход порога возвращения</text>
-        <text x="120" y="285" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(интеграция без детерминанты)</text>
+        <text x="100" y="270" text-anchor="middle">Переход порога возвращения</text>
+        <text x="100" y="285" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(интеграция без детерминанты)</text>
       </g>
       
       <g id="stage-master">
