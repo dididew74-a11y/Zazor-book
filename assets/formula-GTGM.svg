@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <marker id="arrow1" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555"/>
+    </marker>
+  </defs>
+  
+  <!-- Фон -->
+  <rect width="900" height="320" fill="#fafafa" rx="12"/>
+  
+  <!-- Заголовок -->
+  <text x="450" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">Формула ОТПС</text>
+  
+  <!-- Архитектура -->
+  <rect x="30" y="60" width="200" height="70" rx="8" fill="#e1f5ff" stroke="#0288d1" stroke-width="2"/>
+  <text x="130" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#01579b">Архитектура</text>
+  <text x="130" y="108" text-anchor="middle" font-size="11" font-style="italic" fill="#0277bd">устойчивая структура</text>
+  
+  <!-- Среда -->
+  <rect x="30" y="150" width="200" height="70" rx="8" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
+  <text x="130" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#e65100">Среда</text>
+  <text x="130" y="198" text-anchor="middle" font-size="11" font-style="italic" fill="#ef6c00">поле потенциальности</text>
+  
+  <!-- Знак -->
+  <rect x="30" y="240" width="200" height="70" rx="8" fill="#fce4ec" stroke="#c2185b" stroke-width="2"/>
+  <text x="130" y="268" text-anchor="middle" font-size="13" font-weight="bold" fill="#880e4f">Знак</text>
+  <text x="130" y="288" text-anchor="middle" font-size="11" font-style="italic" fill="#ad1457">событие различения</text>
+  
+  <!-- Резонанс (ромб) -->
+  <polygon points="450,100 540,170 450,240 360,170" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="3"/>
+  <text x="450" y="163" text-anchor="middle" font-size="13" font-weight="bold" fill="#4a148c">Резонанс</text>
+  <text x="450" y="183" text-anchor="middle" font-size="11" font-style="italic" fill="#6a1b9a">акт встречи</text>
+  
+  <!-- Смысл -->
+  <rect x="620" y="135" width="220" height="70" rx="8" fill="#e8f5e9" stroke="#388e3c" stroke-width="2"/>
+  <text x="730" y="163" text-anchor="middle" font-size="13" font-weight="bold" fill="#1b5e20">Смысл</text>
+  <text x="730" y="183" text-anchor="middle" font-size="11" font-style="italic" fill="#2e7d32">диалогическое квалиа</text>
+  
+  <!-- Стрелки: Архитектура → Резонанс -->
+  <line x1="230" y1="95" x2="370" y2="155" stroke="#555" stroke-width="2" marker-end="url(#arrow1)"/>
+  
+  <!-- Стрелки: Среда → Резонанс -->
+  <line x1="230" y1="185" x2="370" y2="175" stroke="#555" stroke-width="2" marker-end="url(#arrow1)"/>
+  
+  <!-- Стрелки: Знак → Резонанс -->
+  <line x1="230" y1="275" x2="370" y2="195" stroke="#555" stroke-width="2" marker-end="url(#arrow1)"/>
+  
+  <!-- Стрелки: Резонанс → Смысл -->
+  <line x1="540" y1="170" x2="618" y2="170" stroke="#555" stroke-width="2" marker-end="url(#arrow1)"/>
+</svg>
