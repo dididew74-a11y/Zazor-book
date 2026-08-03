@@ -9,7 +9,10 @@
         font-size="150" letter-spacing="30" fill="#f0ede8">ЗАЗОР</text>
   <text x="600" y="1270" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="42" fill="#9a958d">Диалогическая онтология события и антропотехника проводника </text>
+        font-size="42" fill="#9a958d">Диалогическая онтология события </text>
+  <text x="600" y="1330" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="42" fill="#9a958d"> и антропотехника проводника </text>
   <text x="600" y="1460" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif"
         font-size="40" fill="#c9c4bc">Александр Медведчиков</text>
