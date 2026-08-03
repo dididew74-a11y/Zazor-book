@@ -1,5 +1,9 @@
 ![Мандала](assets/mandala.svg)
 
+<p align="center">
+  <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a>
+</p>
+
 # ЗАЗОР
 ### Диалогическая онтология события и антропотехника проводника
 
