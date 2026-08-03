@@ -1,4 +1,4 @@
-![Зазор — обложка](book/assets/cover.svg)
+![Зазор — обложка](./assets/cover.svg)
 
 ---
 
