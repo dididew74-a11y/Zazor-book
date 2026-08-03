@@ -2,6 +2,10 @@
 ## Диалогическая онтология события и антропотехника проводника
 > «Зазор» — это не онтология субстанции, а практика событийной субъективации: становление «Я» не исходная данность, а этический отклик на встречу с Другим.
 
+<p align="center">
+  <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a>
+</p>
+
 <br>
 <br>
 
