@@ -34,8 +34,8 @@ nav:
   - "Зазор и Изнанка": book/03-zazor-and-iznanka.md
   - "О проекте": book/04-about.md
   - "Как читать эту книгу": book/05-how-to-read.md
-  - "Архитектура": book/06-architecture.md
-  - "Глоссарий": book/07-glossary.md
+  - "Глоссарий": book/06-glossary.md
+  - "Архитектура": book/07-architecture.md
 
   - "Часть I. Онтология зазора":
     - "Введение в Часть I": book/08-part1-intro.md
