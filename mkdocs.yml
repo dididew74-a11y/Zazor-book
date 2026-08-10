@@ -40,7 +40,8 @@ nav:
   - "Часть I. Онтология зазора":
     - "Введение в Часть I": book/08-part1-intro.md
     - "Кризис трудной проблемы": book/09-part1-01-crisis.md
-    - "Примат встречи": book/10-part1-02-primat.md
+    - "Примат Изнанки": book/10-part1-02-primat.md
+    - "Встреча: анатомия события": book/10-part1-02b-vstrecha.md
     - "Три уровня квалиа": book/11-part1-03-qualia.md
     - "Маска и кенозис": book/12-part1-04-mask.md
     - "Модусы присутствия": book/13-part1-05-moduses.md
