@@ -28,7 +28,7 @@ graph TD
 
     P -- "1. Встреча со Знаком (дипластия)" --> DQ
     DQ -- "2. Накопление (резонансный след)" --> MQ
-    MQ -- "3. Аутопоэтическая рекурсия (замыкание петли)" --> P
+    MQ -- "3. Замыкание петли (аутопоэтическая рекурсия)" --> P
 
     style P fill:#fce4ec,stroke:#c2185b,stroke-width:2px
     style DQ fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px
