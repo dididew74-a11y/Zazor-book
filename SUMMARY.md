@@ -14,7 +14,7 @@
   * [Введение в Часть I](book/08-part1-intro.md)
   * [Кризис трудной проблемы](book/09-part1-01-crisis.md)
   * [Примат встречи](book/10-part1-02-primat.md)
-  * [Три уровня квалиа](book/11-part1-03-qualia.md)
+  * [Три модуса квалиа](book/11-part1-03-qualia.md)
   * [Маска и кенозис](book/12-part1-04-mask.md)
   * [Модусы присутствия](book/13-part1-05-moduses.md)
   * [Интерлюдия I](book/14-part1-interlude-1.md)
