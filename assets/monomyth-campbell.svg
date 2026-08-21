@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#2E86AB" />
+    </marker>
+  </defs>
+
+  <!-- ФОН (остается на месте, чтобы залить весь холст) -->
+  <rect width="100%" height="100%" fill="#FAFAFA"/>
+
+  <!-- ГРУППА ДЛЯ СДВИГА ВСЕЙ КОМПОЗИЦИИ НА 30px ВПРАВО -->
+  <g transform="translate(30, 0)">
+
+    <!-- РАЗДЕЛИТЕЛЬ МИРОВ -->
+    <line x1="190" y1="270" x2="668" y2="270" stroke="#C8A66B" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+    
+    <!-- Центральные надписи -->
+    <g text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+      <text x="430" y="410" font-size="26" font-weight="bold" fill="#2E86AB" letter-spacing="1">ПУТЬ ГЕРОЯ</text>
+      <text x="430" y="310" font-size="15" font-weight="600" fill="#28A745" letter-spacing="0.5">ОТКРОВЕНИЕ</text>
+      
+      <text x="430" y="210" font-size="14" font-weight="bold" fill="#C8A66B" letter-spacing="2">ИЗВЕСТНОЕ</text>
+      <text x="430" y="520" font-size="14" font-weight="bold" fill="#2E86AB" letter-spacing="2">НЕИЗВЕСТНОЕ</text>
+    </g>
+
+    <!-- ТРИ ЧАСТИ ПУТИ -->
+    <!-- Часть 1: УХОД -->
+    <path d="M 425 140 A 280 280 0 0 1 705 420" fill="none" stroke="#D4AF37" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
+    
+    <!-- Часть 2: ИНИЦИАЦИЯ -->
+    <path d="M 705 420 A 280 280 0 0 1 145 420" fill="none" stroke="#2E86AB" stroke-width="4" opacity="0.6"/>
+    
+    <!-- Часть 3: ВОЗВРАЩЕНИЕ -->
+    <path d="M 145 420 A 280 280 0 0 1 425 140" fill="none" stroke="#28A745" stroke-width="4" opacity="0.6" stroke-dasharray="8,4"/>
+
+    <!-- ЭТАПЫ: ЧАСТЬ 1 - УХОД -->
+    <g id="departure" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#8B6914">
+      <g id="stage-call">
+        <circle cx="485" cy="160" r="5" fill="#D4AF37"/>
+        <text x="500" y="140" text-anchor="start">Призыв к приключению</text>
+        <text x="540" y="155" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(преквалиа)</text>
+      </g>
+      
+      <g id="stage-refusal">
+        <circle cx="600" cy="220" r="5" fill="#D4AF37"/>
+        <text x="630" y="205" text-anchor="start">Отказ от призыва</text>
+        <text x="645" y="220" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(детерминанта)</text>
+      </g>
+      
+      <g id="stage-help">
+        <circle cx="620" cy="245" r="5" fill="#D4AF37"/>
+        <text x="675" y="235" text-anchor="start">Сверхъестественная помощь</text>
+        <text x="675" y="250" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(встреча со Знаком)</text>
+      </g>
+      
+      <g id="stage-threshold">
+        <circle cx="640" cy="270" r="5" fill="#D4AF37"/>
+        <text x="695" y="270" text-anchor="start">Переход первого порога</text>
+        <text x="695" y="285" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(кенозис)</text>
+      </g>
+      
+      <g id="stage-whale">
+        <circle cx="680" cy="340" r="5" fill="#D4AF37"/>
+        <text x="710" y="340" text-anchor="start">Чрево кита</text>
+        <text x="715" y="355" text-anchor="start" font-size="9" font-weight="normal" font-style="italic" fill="#666">(пребывание в Изнанке)</text>
+      </g>
+    </g>
+
+    <!-- ЭТАПЫ: ЧАСТЬ 2 - ИНИЦИАЦИЯ -->
+    <g id="initiation" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#1E5A7E">
+      <g id="stage-trials">
+        <circle cx="680" cy="460" r="5" fill="#2E86AB"/>
+        <text x="760" y="490" text-anchor="middle">Дорога испытаний</text>
+        <text x="760" y="505" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(дипластия)</text>
+      </g>
+      
+      <g id="stage-goddess">
+        <circle cx="580" cy="630" r="5" fill="#2E86AB"/>
+        <text x="700" y="630" text-anchor="middle">Встреча с богиней</text>
+        <text x="700" y="645" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(диалогическое квалиа)</text>
+      </g>
+      
+      <g id="stage-temptation">
+        <circle cx="460" cy="680" r="5" fill="#2E86AB"/>
+        <text x="460" y="720" text-anchor="middle">Искушение</text>
+        <text x="460" y="735" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(ловушка нарциссической маски)</text>
+      </g>
+      
+      <g id="stage-father">
+        <circle cx="250" cy="620" r="5" fill="#2E86AB"/>
+        <text x="200" y="620" text-anchor="end">Искупление перед отцом</text>
+        <text x="200" y="635" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(высшая дипластия)</text>
+      </g>
+      
+      <g id="stage-apotheosis">
+        <circle cx="170" cy="470" r="5" fill="#2E86AB"/>
+        <text x="125" y="460" text-anchor="end">Апофеоз</text>
+        <text x="125" y="475" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(гнозис)</text>
+      </g>
+      
+      <g id="stage-gift">
+        <circle cx="155" cy="410" r="5" fill="#2E86AB"/>
+        <text x="125" y="410" text-anchor="end">Окончательный дар</text>
+        <text x="125" y="425" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(архитектура проводника)</text>
+      </g>
+    </g>
+
+    <!-- ЭТАПЫ: ЧАСТЬ 3 - ВОЗВРАЩЕНИЕ -->
+    <g id="return" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#28A745">
+      <g id="stage-refusal-return">
+        <circle cx="160" cy="375" r="5" fill="#28A745"/>
+        <text x="125" y="375" text-anchor="end">Отказ от возвращения</text>
+        <text x="125" y="390" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(ловушка присвоения)</text>
+      </g>
+      
+      <g id="stage-flight">
+        <circle cx="170" cy="335" r="5" fill="#28A745"/>
+        <text x="90" y="335" text-anchor="middle">Магический полёт</text>
+        <text x="90" y="350" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(автопоэтическая рекурсия)</text>
+      </g>
+      
+      <g id="stage-rescue">
+        <circle cx="185" cy="300" r="5" fill="#28A745"/>
+        <text x="110" y="300" text-anchor="middle">Спасение извне</text>
+        <text x="110" y="315" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(этический акт Другого)</text>
+      </g>
+      
+      <g id="stage-return-threshold">
+        <circle cx="200" cy="270" r="5" fill="#28A745"/>
+        <text x="100" y="270" text-anchor="middle">Переход порога возвращения</text>
+        <text x="100" y="285" text-anchor="middle" font-size="9" font-weight="normal" font-style="italic" fill="#666">(интеграция без детерминанты)</text>
+      </g>
+      
+      <g id="stage-master">
+        <circle cx="350" cy="160" r="5" fill="#28A745"/>
+        <text x="280" y="150" text-anchor="end">Мастер двух миров</text>
+        <text x="280" y="165" text-anchor="end" font-size="9" font-weight="normal" font-style="italic" fill="#666">(предельная свобода)</text>
+      </g>
+      
+      <g id="stage-freedom">
+        <circle cx="430" cy="270" r="5" fill="#28A745"/>
+        <text x="400" y="290" text-anchor="start">Свобода жить</text>
+      </g>
+    </g>
+
+    <!-- НАЗВАНИЯ ТРЁХ ЧАСТЕЙ -->
+    <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold">
+      <text x="720" y="90" fill="#D4AF37" text-anchor="middle">ЧАСТЬ 1: УХОД</text>
+      <text x="430" y="650" fill="#2E86AB" text-anchor="middle">ЧАСТЬ 2: ИНИЦИАЦИЯ</text>
+      <text x="180" y="90" fill="#28A745" text-anchor="middle">ЧАСТЬ 3: ВОЗВРАЩЕНИЕ</text>
+    </g>
+
+    <!-- СТРЕЛКИ НАПРАВЛЕНИЯ -->
+    <g fill="none" stroke="#2E86AB" stroke-width="2" marker-end="url(#arrow)" opacity="0.6">
+      <!-- Верхняя правая -->
+      <path d="M 495 155 A 280 280 0 0 1 695 315" />
+      <!-- Верхняя горизонтальная -->
+      <path d="M 315 165 A 280 280 0 0 1 575 165" />
+      <!-- Левая верхняя -->
+      <path d="M 165 385 A 280 280 0 0 1 215 245" />
+      <!-- Правая нижняя -->
+      <path d="M 705 405 A 280 280 0 0 1 645 575" />
+      <!-- Нижняя горизонтальная -->
+      <path d="M 575 645 A 280 280 0 0 1 315 675" />
+      <!-- Левая нижняя -->
+      <path d="M 215 605 A 280 280 0 0 1 165 445" />
+    </g>
+
+  </g> <!-- Конец группы сдвига -->
+</svg>

@@ -1,0 +1,488 @@
+<svg
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   width="398"
+   height="400"
+   version="1.0"
+   sodipodi:docname="Heroesjourney.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   style="background-color: #ffffff;">
+   
+  <!-- Белый прямоугольник на весь холст для гарантированного фона -->
+  <rect width="100%" height="100%" fill="#ffffff" />
+
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="745"
+     inkscape:window-width="1364"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.1649584"
+     inkscape:cx="106.87077"
+     inkscape:cy="238.20593"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path2386"
+     style="fill: rgb(1, 1, 1); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 204.84557,16.590928 C 204.84557,19.760679 202.27302,22.33323 199.10327,22.33323 C 195.93352,22.33323 193.36097,19.760679 193.36097,16.590928 C 193.36097,13.421177 195.93352,10.848626 199.10327,10.848626 C 202.27302,10.848626 204.84557,13.421177 204.84557,16.590928 z M 187.26359,19.280895 L 189.1699,20.288027 C 189.98424,20.718254 190.30313,21.725209 189.88489,22.545771 L 184.12499,33.846536 C 183.70676,34.667098 182.71447,34.981337 181.90013,34.55111 L 179.99382,33.543978 C 179.17948,33.113751 178.8606,32.106801 179.27883,31.286239 L 185.03874,19.985474 C 185.45697,19.164912 186.44925,18.850668 187.26359,19.280895 zM 193.59375,22.0625 C 192.3318,22.079691 191.1202,23.144482 189.9375,25.53125 L 183.75,37.125 C 180.66906,42.901776 184.40625,45.406249 184.40625,45.40625 C 182.37195,50.336496 176.53125,70.281253 176.53125,70.28125 C 174.89691,74.136424 178.43752,75.550168 179.59375,72.59375 C 179.59375,72.59375 189.4375,51.4375 189.4375,51.4375 C 192.71157,55.365648 194.24831,58.816861 195.4375,63.96875 L 189.71875,73.46875 C 188.94212,74.755605 190.53612,75.602066 191.375,74.34375 L 196.125,67.21875 C 196.45117,68.990721 196.78598,70.902279 197.125,73.125 C 197.46967,75.381939 201.99511,75.598243 201.3125,71.59375 C 201.3125,71.59375 200.79929,66.281886 200.0625,61.34375 L 211.15625,44.65625 C 213.42447,45.351977 213.75677,43.519319 211.46875,42 L 203.3125,37.25 C 200.99356,36.450658 200.8265,33.895649 200.875,31.59375 C 200.99161,26.059007 198.23464,24.637313 195.34375,22.65625 C 194.74953,22.24904 194.16736,22.054686 193.59375,22.0625 z M 197.5625,35.59375 C 198.33696,37.512276 199.05296,39.183763 201.1875,40.21875 L 207.9375,43.28125 L 199.375,57.46875 C 199.20741,56.597673 199.04967,55.787929 198.875,55.125 C 198.12764,52.288468 195.03125,45.968748 195.03125,45.96875 C 194.41151,44.10953 193.5579,42.367807 194.5625,40.65625 L 197.5625,35.59375 z" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3169"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 84.375784,81.24336 A 157.10704,157.10704 0 0 1 158.84561,43.846602"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="3.9785839"
+     sodipodi:end="4.5154246"
+     sodipodi:open="true" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3171"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 220.71011,43.921889 A 157.10704,157.10704 0 0 1 278.58131,68.443064"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="4.9117873"
+     sodipodi:end="5.3145623"
+     sodipodi:open="true" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3173"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 311.33281,98.611366 A 157.10704,157.10704 0 0 1 334.7555,137.83508"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="5.5989474"
+     sodipodi:end="5.890771"
+     sodipodi:open="true" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3175"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 345.23085,176.49929 A 157.10704,157.10704 0 0 1 235.01638,348.31249"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="6.1464403"
+     sodipodi:end="7.560653"
+     sodipodi:open="true" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3177"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 78.881776,309.38896 A 157.10704,157.10704 0 0 1 36.634401,233.79193"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="2.3527544"
+     sodipodi:end="2.9112066"
+     sodipodi:open="true" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3179"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 32.904367,209.40977 A 157.10704,157.10704 0 0 1 67.382272,99.185085"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="3.0683684"
+     sodipodi:end="3.821127"
+     sodipodi:open="true" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 48.190719,136.65315 L 338.5766,136.65315"
+     id="path3181"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 155.33461,39.538618 L 167.87153,41.214959 L 157.48398,48.431828"
+     id="path3191"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 278.35614,58.955904 L 285.44331,69.432369 L 273.14512,66.476176"
+     id="path3193"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 334.13142,116.92748 L 335.34576,129.51755 L 325.95861,121.04018"
+     id="path3195"
+     sodipodi:nodetypes="ccc"
+     inkscape:transform-center-x="4.8621075"
+     inkscape:transform-center-y="-6.3198608" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 60.737786,103.9455 L 71.641257,97.534678 L 67.913655,109.62142"
+     id="path3197"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 260.4269,343.88155 L 247.7795,344.04854 L 257.00552,335.39608"
+     id="path3199"
+     sodipodi:nodetypes="ccc"
+     inkscape:transform-center-y="-4.3273184"
+     inkscape:transform-center-x="-6.326385" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 117.09862,339.31551 L 109.25198,329.39509 L 121.73595,331.42854"
+     id="path3201"
+     sodipodi:nodetypes="ccc"
+     inkscape:transform-center-y="4.9616816"
+     inkscape:transform-center-x="-6.24448" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 38.824412,244.6909 L 40.242558,232.12217 L 47.671542,242.35908"
+     id="path3203"
+     sodipodi:nodetypes="ccc"
+     inkscape:transform-center-y="6.2871716"
+     inkscape:transform-center-x="-3.0061585" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="81.8713"
+     y="91.820702"
+     id="text3205"><tspan
+       sodipodi:role="line"
+       id="tspan9">Возвращение</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.43956px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.786629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="258.94025"
+     y="36.722294"
+     id="text3209"
+     transform="scale(0.99338672,1.0066573)"><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="258.94025"
+       y="36.722294"
+       style="stroke-width:0.786629px">Зов</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="306.31799"
+     y="81.094101"
+     id="text3219"><tspan
+       sodipodi:role="line"
+       id="tspan18">Помощь</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="194.77299"
+     y="131.86099"
+     id="text3225"><tspan
+       sodipodi:role="line"
+       id="tspan3227"
+       x="194.77299"
+       y="131.86099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif">Известное</tspan><tspan
+       sodipodi:role="line"
+       x="194.77299"
+       y="156.86099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif"
+       id="tspan3229">Неизвестное</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="297.01587"
+     y="117.57364"
+     id="text3231"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="297.01587"
+       y="117.57364">Страж</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="332.48999"
+     y="157.246"
+     id="text3245"><tspan
+       sodipodi:role="line"
+       id="tspan3247"
+       x="335.26999"
+       y="157.246"
+       style="font-size:20px;line-height:1.25"> </tspan></text>
+  <text
+     id="text3237"
+     y="150.12157"
+     x="341.58557"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan22">Порог</tspan></text>
+  <text
+     id="text3249"
+     y="163.15244"
+     x="345.27927"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.49519px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.707932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan24"
+       x="345.27927"
+       y="163.15244">(начало трансформации)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71958px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.726633px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="388.83267"
+     y="193.34164"
+     id="text3255"
+     transform="scale(0.96297971,1.0384435)"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       x="388.83267"
+       y="193.34164"
+       style="stroke-width:0.726633px">Помощник</tspan></text>
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1.55546; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 359.55087,183.17866 L 354.28136,179.27471 L 360.80503,178.60366 M 373.38913,191.94363 C 372.67036,181.22009 363.1241,182.24057 354.43424,179.30351"
+     id="path3263"
+     sodipodi:nodetypes="ccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="296.18561"
+     y="225.1358"
+     id="text3265"><tspan
+       sodipodi:role="line"
+       id="tspan6">Наставник</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.55545998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 330.4186,200.07883 5.26951,-3.90395 -6.52367,-0.67105 m -34.18473,19.82016 c 8.27899,-16.3037 31.86566,-16.18325 40.55552,-19.12031"
+     id="path3269"
+     sodipodi:nodetypes="ccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="314.39999"
+     y="342.25299"
+     id="text3271"><tspan
+       sodipodi:role="line"
+       id="tspan1">Помощник</tspan></text>
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1.55546; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 281.03998,341.12294 L 275.84443,337.12109 L 276.98196,343.57977 M 303.33373,346.27852 C 285.26182,353.19818 281.47424,346.97658 275.91392,337.26028"
+     id="path3275"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     transform="matrix(-1, 0, 0, -1, 602.373, 528.602)"
+     style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 341.28747,196.19019 C 305.81755,215.6299 263.03192,253.9433 257.32652,333.66133"
+     id="path3277"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="43.431301"
+     y="223.62399"
+     id="text3299"><tspan
+       sodipodi:role="line"
+       id="tspan7">Награда</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="99.020401"
+     y="323.32199"
+     id="text3303"><tspan
+       sodipodi:role="line"
+       id="tspan25">Трансформация</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="85.68383"
+     y="129.06247"
+     id="text3307"><tspan
+       sodipodi:role="line"
+       x="85.68383"
+       y="129.06247"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       id="tspan3311">(Дар богов)</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3313"
+     sodipodi:cx="189.59041"
+     sodipodi:cy="197.916"
+     sodipodi:rx="157.10704"
+     sodipodi:ry="157.10704"
+     d="M 137.59747,346.17037 A 157.10704,157.10704 0 0 1 105.75409,330.78471"
+     transform="translate(3.74808, -1.24936)"
+     sodipodi:start="1.9080954"
+     sodipodi:end="2.133678"
+     sodipodi:open="true" />
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 166.16314,345.31722 L 156.19335,327.79456 L 174.92447,337.46224 L 180.66465,327.49245 L 189.42598,337.76435 L 201.20846,324.16918 L 202.1148,338.67069 L 229.30514,326.88822 L 223.86707,345.31722 L 239.27493,346.8278 L 229.30514,358.61027 L 244.10876,367.67372 L 229.60725,374.62236 L 241.38973,390.93656 L 202.71903,380.66465 L 202.41692,391.8429 L 196.37462,381.26888 L 174.01813,392.44713 L 173.71601,378.24773 L 142.9003,384.29003 L 154.68278,370.09063 L 140.7855,364.95468 L 153.77644,358.91239 L 141.99396,344.71299 L 166.16314,345.31722 z"
+     id="path3315"
+     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  <text
+     id="text3317"
+     y="351.51678"
+     x="192.87204"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Sans Condensed Uralic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan3319"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+       y="351.51678"
+       x="192.87204"
+       sodipodi:role="line">Бездна</tspan></text>
+  <text
+     id="text3321"
+     y="370.87726"
+     x="186.11913"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3874px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.865613"
+     xml:space="preserve"
+     transform="scale(1.0243634,0.97621607)"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="186.11913"
+       y="370.87726"
+       style="stroke-width:0.865613">смерти</tspan></text>
+  <path
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     d="M 153.17221,322.96073 C 176.23364,318.46276 199.29507,318.59708 222.3565,322.96073"
+     id="path3344"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.9497px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.49581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="189.48193"
+     y="221.67169"
+     id="text3349"
+     transform="scale(1.0020181,0.99798598)"><tspan
+       sodipodi:role="line"
+       id="tspan13"
+       x="189.48193"
+       y="221.67169"
+       style="stroke-width:3.49581px">Путь</tspan></text>
+  <text
+     id="text3"
+     y="370.31055"
+     x="193.54028"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70262px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.808552"
+     xml:space="preserve"
+     transform="scale(0.9986899,1.0013118)"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="193.54028"
+       y="370.31055"
+       style="stroke-width:0.808552">и возрождения</tspan></text>
+  <text
+     id="text4"
+     y="319.46472"
+     x="194.37546"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan10">ОТКРОВЕНИЕ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.9497px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.49581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="189.55678"
+     y="272.2804"
+     id="text14"
+     transform="scale(1.0020181,0.99798598)"><tspan
+       sodipodi:role="line"
+       id="tspan14"
+       x="189.55678"
+       y="272.2804"
+       style="stroke-width:3.49581px">героя</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.43956px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.786629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="280.58319"
+     y="44.294834"
+     id="text17"
+     transform="scale(0.99338672,1.0066573)"><tspan
+       sodipodi:role="line"
+       id="tspan17"
+       x="280.58319"
+       y="44.294834"
+       style="stroke-width:0.786629px">приключений</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="307.18051"
+     y="92.500496"
+     id="text19"><tspan
+       sodipodi:role="line"
+       id="tspan19"
+       x="307.18051"
+       y="92.500496">высших сил</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Sans Condensed Uralic';-inkscape-font-specification:'Sans Condensed Uralic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="299.00504"
+     y="128.44398"
+     id="text21"><tspan
+       sodipodi:role="line"
+       id="tspan21"
+       x="299.00504"
+       y="128.44398">порога</tspan></text>
+  <text
+     xml:space="preserve"
+     style="fill:#000000"
+     id="text8"
+     transform="matrix(1.0434839,-0.04836718,0.04836718,1.0434839,-22.241563,-3.2271503)"><textPath
+       xlink:href="#path3277"
+       id="textPath8"><tspan
+         id="tspan8">Испытания и соблазны</tspan></textPath></text>
+</svg>
