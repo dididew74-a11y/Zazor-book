@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <!-- Градиенты для архитектур -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:0.3" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:0.3" />
+    </linearGradient>
+    <!-- Градиент для зазора -->
+    <radialGradient id="gradGap" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#ffa500;stop-opacity:0.4" />
+    </radialGradient>
+    <!-- Тени -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="2" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Фон - Изнанка -->
+  <rect width="800" height="600" fill="#0a0a0a"/>
+  <text x="400" y="40" text-anchor="middle" fill="#666" font-size="14" font-style="italic">Изнанка бытия (поле резонанса)</text>
+  
+  <!-- Первая Архитектура -->
+  <circle cx="320" cy="320" r="180" fill="url(#grad1)" stroke="#667eea" stroke-width="3" filter="url(#shadow)"/>
+  
+  <!-- Вторая Архитектура -->
+  <circle cx="480" cy="320" r="180" fill="url(#grad2)" stroke="#f5576c" stroke-width="3" filter="url(#shadow)"/>
+  
+  <!-- Зазор (пересечение) -->
+  <g>
+    <defs>
+      <clipPath id="clip1">
+        <circle cx="320" cy="320" r="180"/>
+      </clipPath>
+      <clipPath id="clip2">
+        <circle cx="480" cy="320" r="180"/>
+      </clipPath>
+    </defs>
+    <circle cx="320" cy="320" r="180" fill="url(#gradGap)" clip-path="url(#clip2)" opacity="0.8"/>
+  </g>
+  
+  <!-- Границы кругов поверх -->
+  <circle cx="320" cy="320" r="180" fill="none" stroke="#667eea" stroke-width="3"/>
+  <circle cx="480" cy="320" r="180" fill="none" stroke="#f5576c" stroke-width="3"/>
+  
+  <!-- Подписи архитектур -->
+  <text x="220" y="280" text-anchor="middle" fill="#667eea" font-size="18" font-weight="bold">Архитектура 1</text>
+  <text x="220" y="305" text-anchor="middle" fill="#999" font-size="12">(Я, Маска, Форма)</text>
+  
+  <text x="580" y="280" text-anchor="middle" fill="#f5576c" font-size="18" font-weight="bold">Архитектура 2</text>
+  <text x="580" y="305" text-anchor="middle" fill="#999" font-size="12">(Другой, Маска, Форма)</text>
+  
+  <!-- Зазор - центральная подпись -->
+  <text x="400" y="315" text-anchor="middle" fill="#d4af37" font-size="20" font-weight="bold">ЗАЗОР</text>
+  <text x="400" y="335" text-anchor="middle" fill="#ffd700" font-size="12">(событие встречи)</text>
+  <text x="400" y="350" text-anchor="middle" fill="#ffa500" font-size="10">рождение смысла</text>
+  
+  <!-- Стрелки-векторы -->
+  <line x1="320" y1="320" x2="400" y2="320" stroke="#667eea" stroke-width="2" marker-end="url(#arrow1)" opacity="0.6"/>
+  <line x1="480" y1="320" x2="400" y2="320" stroke="#f5576c" stroke-width="2" marker-end="url(#arrow2)" opacity="0.6"/>
+  
+  <!-- Маркеры стрелок -->
+  <defs>
+    <marker id="arrow1" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#667eea" />
+    </marker>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M9,0 L9,6 L0,3 z" fill="#f5576c" />
+    </marker>
+  </defs>
+  
+  <!-- Динамические элементы - волны резонанса -->
+  <g opacity="0.4">
+    <ellipse cx="400" cy="320" rx="60" ry="20" fill="none" stroke="#ffd700" stroke-width="1">
+      <animate attributeName="rx" values="60;80;60" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.2;0.4" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="400" cy="320" rx="40" ry="15" fill="none" stroke="#ffd700" stroke-width="1">
+      <animate attributeName="rx" values="40;55;40" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.2;0.4" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  
+  <!-- Легенда внизу -->
+  <g transform="translate(0, 520)">
+    <line x1="50" y1="0" x2="80" y2="0" stroke="#667eea" stroke-width="3"/>
+    <text x="90" y="5" fill="#999" font-size="11">Архитектура (форма, маска)</text>
+    
+    <line x1="300" y1="0" x2="330" y2="0" stroke="#f5576c" stroke-width="3"/>
+    <text x="340" y="5" fill="#999" font-size="11">Другой (встреча)</text>
+    
+    <rect x="520" y="-8" width="30" height="16" fill="url(#gradGap)" stroke="#ffa500" stroke-width="1"/>
+    <text x="560" y="5" fill="#999" font-size="11">Зазор (резонанс)</text>
+  </g>
+  
+  <!-- Ключевой принцип -->
+  <text x="400" y="570" text-anchor="middle" fill="#666" font-size="12" font-style="italic">
+    «Смысл рождается в зазоре, не принадлежа ни одной из архитектур»
+  </text>
+</svg>
